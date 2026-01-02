@@ -1,5 +1,5 @@
 // 表情库索引URL
-const emojibank = "https://example.com/emoji-index.json"; // 替换为您的索引JSON地址
+const emojibank = "https://raw.githubusercontent.com/C-S-E-C/emojipedia/refs/heads/main/emojibank.json"; // 替换为您的索引JSON地址
 
 // 本地缓存：索引缓存和表情集缓存
 const emojiIndexCache = {}; // 存储从emojibank加载的索引 {id: url}
