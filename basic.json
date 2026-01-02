@@ -1,6 +1,3 @@
-[
-  {
-    "id": "csec",
-    "url": "https://assets.r2.csec.top/logo/black.white.svg"
+{
+    "csec":{"url":"https://assets.r2.csec.top/logo/black.white.svg"}
   }
-]
