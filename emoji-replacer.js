@@ -5,8 +5,8 @@
 class EmojiReplacer {
   constructor(config = {}) {
     this.config = {
-      emojiIndexUrl: config.emojiIndexUrl || "https://emoji-api.example.com/index.json",
-      imageBaseUrl: config.imageBaseUrl || "https://cdn.example.com/emoji/",
+      emojiIndexUrl: config.emojiIndexUrl || "https://raw.githubusercontent.com/C-S-E-C/emojipedia/refs/heads/main/emojibank.json",
+      imageBaseUrl: config.imageBaseUrl || "https://raw.githubusercontent.com/C-S-E-C/emojipedia/refs/heads/main/",
       imageFormat: config.imageFormat || "png",
       className: config.className || "emoji-img",
       size: config.size || 20,
