@@ -21,7 +21,7 @@ These are the icons with Hexid
 
 <link rel="stylesheet" href="https://raw.githubusercontent.com/C-S-E-C/emojipedia/refs/heads/main/style.css">
 <div class="csecicon">
-|Unicode hex|name|icon|
+|Unicodehex|name|icon|
 |-|-|-|
 |0xf0000|cseclogo|󰀀|
 |0xf0001|1password|󰀁|
