@@ -43,7 +43,7 @@ Github Readme displays the icons below wrong,however you can view them on the [h
 
 <link rel="stylesheet" href="id.css">
 <button onclick="document.body.innerHTML += `<link rel='stylesheet' href='color.css'>`">Enable Colors</button>
-<table>
+<table style="font-size:16;">
 <tr><td>Unicodehex</td><td>name</td><td>icon</td></tr>
 <tr><td>0xf0000</td><td>1password</td><td class="csecicon-1password"></td></tr>
 <tr><td>0xf0001</td><td>500px</td><td class="csecicon-500px"></td></tr>
