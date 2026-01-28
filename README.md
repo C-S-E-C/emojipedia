@@ -5,7 +5,7 @@
 ## Usage
 
 in your code:
-add `<link rel="stylesheet" href="https://raw.githubusercontent.com/C-S-E-C/emojipedia/refs/heads/main/style.css">` in head
+add `https://c-s-e-c.github.io/emojipedia/style.css` in head
 add `class="csecicon"`
 add content in elements like `\f0000`
 
