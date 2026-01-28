@@ -242,6 +242,7 @@ Github Readme displays the icons below wrong,however you can view them on the [h
 <tr><td>0xf00c9</td><td>disqus</td><td class="csecicon-disqus"></td></tr>
 <tr><td>0xf00ca</td><td>disroot</td><td class="csecicon-disroot"></td></tr>
 <tr><td>0xf00cb</td><td>django</td><td class="csecicon-django"></td></tr>
+<tr><td>0xf00cb</td><td>dji</td><td class="csecicon-dji"></td></tr>
 <tr><td>0xf00cc</td><td>dlna</td><td class="csecicon-dlna"></td></tr>
 <tr><td>0xf00cd</td><td>docker</td><td class="csecicon-docker"></td></tr>
 <tr><td>0xf00ce</td><td>docusign</td><td class="csecicon-docusign"></td></tr>
