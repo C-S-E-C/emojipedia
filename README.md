@@ -6,6 +6,7 @@
 1. RECOMMENDED<br  />
    get latest reslese<br  />
    a. add `https://c-s-e-c.github.io/emojipedia/id.css` in head<br  />
+   not needed but recommended: adding colors: some logos have colors if you also want colors add`https://c-s-e-c.github.io/emojipedia/color.css` in head<br  />
    b. add `class="csecicon-[name]"`
 2. FAST<br  />
    add `https://c-s-e-c.github.io/emojipedia/old.css` in head<br  />
