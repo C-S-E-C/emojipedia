@@ -2,7 +2,7 @@
 
 ##### A frontend icon resp
 
-[<span class="csecicon-csecicon-csec"></span> github](https://github.com/C-S-E-C/emojipedia)
+[<span class="csecicon-csec"></span> github](https://github.com/C-S-E-C/emojipedia)
 
 ## Usage
 
@@ -10,16 +10,16 @@
    get latest reslese<br  />
    a. add `https://c-s-e-c.github.io/emojipedia/id.css` in head<br  />
    not needed but recommended: adding colors: some logos have colors if you also want colors add`https://c-s-e-c.github.io/emojipedia/color.css` in head<br  />
-   b. add `class="csecicon-csecicon-\[name]"`
+   b. add `class="csecicon-\[name]"`
 2. FAST<br  />
    add `https://c-s-e-c.github.io/emojipedia/old.css` in head<br  />
    add `\[class^="csecicon"], \[class\*=" csecicon"] {font-family: 'CSEC-font-library-\[version]' !important;}` in style<br  />
-   add `class="csecicon-csecicon"`<br  />
+   add `class="csecicon"`<br  />
    add content in elements like `\\f0000`
 3. NOT RECOMMENDED<br  />
    This make your site not stable,you will need to update your site as we change the id of icons.<br  />
    add `https://c-s-e-c.github.io/emojipedia/style.css` in head<br  />
-   add `class="csecicon-csecicon"`<br  />
+   add `class="csecicon"`<br  />
    add content in elements like `\\f0000`
 
 # Credits
