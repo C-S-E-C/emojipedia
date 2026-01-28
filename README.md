@@ -2,7 +2,7 @@
 
 ##### A frontend icon resp
 
-[<span class="csecicon-csec"></span> github](https://github.com/C-S-E-C/emojipedia)
+[<span class="csecicon-github"></span> github](https://github.com/C-S-E-C/emojipedia)
 
 ## Usage
 
