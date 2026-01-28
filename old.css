@@ -9,7 +9,17 @@
   font-style: normal;
   font-display: block;
 }
-
+@font-face {
+  font-family: 'CSEC-font-library-1.1';
+  src:  url('https://github.com/C-S-E-C/emojipedia/releases/download/1.1/font.woff2');
+  src:  url('https://github.com/C-S-E-C/emojipedia/releases/download/1.1/font.woff2') format('woff2'),
+    url('https://github.com/C-S-E-C/emojipedia/releases/download/1.1/font.ttf') format('truetype'),
+    url('https://github.com/C-S-E-C/emojipedia/releases/download/1.1/font.woff') format('woff'),
+    url('https://github.com/C-S-E-C/emojipedia/releases/download/1.1/font.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
 [class^="csecicon"], [class*=" csecicon"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   /* font-family: 'CSEC-font-library' !important; */
