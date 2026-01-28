@@ -34,961 +34,961 @@
 
 # Table
 Github Readme displays the icons below wrong,however you can view them on the [homepage](https://c-s-e-c.github.io/emojipedia/) 
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="id.css">
 <div class="csecicon">
 <table>
 <tr><td>Unicodehex</td><td>name</td><td>icon</td></tr>
-<tr><td>0xf0000</td><td>cseclogo</td><td>󰀀</td></tr>
-<tr><td>0xf0001</td><td>1password</td><td>󰀁</td></tr>
-<tr><td>0xf0002</td><td>500px</td><td>󰀂</td></tr>
-<tr><td>0xf0003</td><td>abbrobotstudio</td><td>󰀃</td></tr>
-<tr><td>0xf0004</td><td>about-dot-me</td><td>󰀄</td></tr>
-<tr><td>0xf0005</td><td>abstract</td><td>󰀅</td></tr>
-<tr><td>0xf0006</td><td>academia</td><td>󰀆</td></tr>
-<tr><td>0xf0007</td><td>accusoft</td><td>󰀇</td></tr>
-<tr><td>0xf0008</td><td>acm</td><td>󰀈</td></tr>
-<tr><td>0xf0009</td><td>addthis</td><td>󰀉</td></tr>
-<tr><td>0xf000a</td><td>adguard</td><td>󰀊</td></tr>
-<tr><td>0xf000b</td><td>adobe</td><td>󰀋</td></tr>
-<tr><td>0xf000c</td><td>adobeacrobatreader</td><td>󰀌</td></tr>
-<tr><td>0xf000d</td><td>adobeaftereffects</td><td>󰀍</td></tr>
-<tr><td>0xf000e</td><td>adobeaudition</td><td>󰀎</td></tr>
-<tr><td>0xf000f</td><td>adobecreativecloud</td><td>󰀏</td></tr>
-<tr><td>0xf0010</td><td>adobedreamweaver</td><td>󰀐</td></tr>
-<tr><td>0xf0011</td><td>adobeillustrator</td><td>󰀑</td></tr>
-<tr><td>0xf0012</td><td>adobeindesign</td><td>󰀒</td></tr>
-<tr><td>0xf0013</td><td>adobelightroomcc</td><td>󰀓</td></tr>
-<tr><td>0xf0014</td><td>adobelightroomclassic</td><td>󰀔</td></tr>
-<tr><td>0xf0015</td><td>adobephotoshop</td><td>󰀕</td></tr>
-<tr><td>0xf0016</td><td>adobepremiere</td><td>󰀖</td></tr>
-<tr><td>0xf0017</td><td>adobetypekit</td><td>󰀗</td></tr>
-<tr><td>0xf0018</td><td>adobexd</td><td>󰀘</td></tr>
-<tr><td>0xf0019</td><td>airbnb</td><td>󰀙</td></tr>
-<tr><td>0xf001a</td><td>airplayaudio</td><td>󰀚</td></tr>
-<tr><td>0xf001b</td><td>airplayvideo</td><td>󰀛</td></tr>
-<tr><td>0xf001c</td><td>algolia</td><td>󰀜</td></tr>
-<tr><td>0xf001d</td><td>alliedmodders</td><td>󰀝</td></tr>
-<tr><td>0xf001e</td><td>amazon</td><td>󰀞</td></tr>
-<tr><td>0xf001f</td><td>amazonalexa</td><td>󰀟</td></tr>
-<tr><td>0xf0020</td><td>amazonaws</td><td>󰀠</td></tr>
-<tr><td>0xf0021</td><td>amd</td><td>󰀡</td></tr>
-<tr><td>0xf0022</td><td>americanexpress</td><td>󰀢</td></tr>
-<tr><td>0xf0023</td><td>anaconda</td><td>󰀣</td></tr>
-<tr><td>0xf0024</td><td>analogue</td><td>󰀤</td></tr>
-<tr><td>0xf0025</td><td>anchor</td><td>󰀥</td></tr>
-<tr><td>0xf0026</td><td>android</td><td>󰀦</td></tr>
-<tr><td>0xf0027</td><td>angellist</td><td>󰀧</td></tr>
-<tr><td>0xf0028</td><td>angular</td><td>󰀨</td></tr>
-<tr><td>0xf0029</td><td>angularuniversal</td><td>󰀩</td></tr>
-<tr><td>0xf002a</td><td>ansible</td><td>󰀪</td></tr>
-<tr><td>0xf002b</td><td>apache</td><td>󰀫</td></tr>
-<tr><td>0xf002c</td><td>apacheairflow</td><td>󰀬</td></tr>
-<tr><td>0xf002d</td><td>apachecordova</td><td>󰀭</td></tr>
-<tr><td>0xf002e</td><td>apacheflink</td><td>󰀮</td></tr>
-<tr><td>0xf002f</td><td>apachekafka</td><td>󰀯</td></tr>
-<tr><td>0xf0030</td><td>apachenetbeanside</td><td>󰀰</td></tr>
-<tr><td>0xf0031</td><td>apacheopenoffice</td><td>󰀱</td></tr>
-<tr><td>0xf0032</td><td>apacherocketmq</td><td>󰀲</td></tr>
-<tr><td>0xf0033</td><td>apachespark</td><td>󰀳</td></tr>
-<tr><td>0xf0034</td><td>apple</td><td>󰀴</td></tr>
-<tr><td>0xf0035</td><td>applemusic</td><td>󰀵</td></tr>
-<tr><td>0xf0036</td><td>applepay</td><td>󰀶</td></tr>
-<tr><td>0xf0037</td><td>applepodcasts</td><td>󰀷</td></tr>
-<tr><td>0xf0038</td><td>appveyor</td><td>󰀸</td></tr>
-<tr><td>0xf0039</td><td>aral</td><td>󰀹</td></tr>
-<tr><td>0xf003a</td><td>archiveofourown</td><td>󰀺</td></tr>
-<tr><td>0xf003b</td><td>archlinux</td><td>󰀻</td></tr>
-<tr><td>0xf003c</td><td>arduino</td><td>󰀼</td></tr>
-<tr><td>0xf003d</td><td>artstation</td><td>󰀽</td></tr>
-<tr><td>0xf003e</td><td>arxiv</td><td>󰀾</td></tr>
-<tr><td>0xf003f</td><td>asana</td><td>󰀿</td></tr>
-<tr><td>0xf0040</td><td>asciidoctor</td><td>󰁀</td></tr>
-<tr><td>0xf0041</td><td>at-and-t</td><td>󰁁</td></tr>
-<tr><td>0xf0042</td><td>atlassian</td><td>󰁂</td></tr>
-<tr><td>0xf0043</td><td>atom</td><td>󰁃</td></tr>
-<tr><td>0xf0044</td><td>audi</td><td>󰁄</td></tr>
-<tr><td>0xf0045</td><td>audible</td><td>󰁅</td></tr>
-<tr><td>0xf0046</td><td>aurelia</td><td>󰁆</td></tr>
-<tr><td>0xf0047</td><td>auth0</td><td>󰁇</td></tr>
-<tr><td>0xf0048</td><td>automatic</td><td>󰁈</td></tr>
-<tr><td>0xf0049</td><td>autotask</td><td>󰁉</td></tr>
-<tr><td>0xf004a</td><td>aventrix</td><td>󰁊</td></tr>
-<tr><td>0xf004b</td><td>awesomewm</td><td>󰁋</td></tr>
-<tr><td>0xf004c</td><td>azureartifacts</td><td>󰁌</td></tr>
-<tr><td>0xf004d</td><td>azuredevops</td><td>󰁍</td></tr>
-<tr><td>0xf004e</td><td>azurepipelines</td><td>󰁎</td></tr>
-<tr><td>0xf004f</td><td>babel</td><td>󰁏</td></tr>
-<tr><td>0xf0050</td><td>baidu</td><td>󰁐</td></tr>
-<tr><td>0xf0051</td><td>bamboo</td><td>󰁑</td></tr>
-<tr><td>0xf0052</td><td>bancontact</td><td>󰁒</td></tr>
-<tr><td>0xf0053</td><td>bandcamp</td><td>󰁓</td></tr>
-<tr><td>0xf0054</td><td>bandlab</td><td>󰁔</td></tr>
-<tr><td>0xf0055</td><td>basecamp</td><td>󰁕</td></tr>
-<tr><td>0xf0056</td><td>bathasu</td><td>󰁖</td></tr>
-<tr><td>0xf0057</td><td>beats</td><td>󰁗</td></tr>
-<tr><td>0xf0058</td><td>beatsbydre</td><td>󰁘</td></tr>
-<tr><td>0xf0059</td><td>behance</td><td>󰁙</td></tr>
-<tr><td>0xf005a</td><td>bigcartel</td><td>󰁚</td></tr>
-<tr><td>0xf005b</td><td>bing</td><td>󰁛</td></tr>
-<tr><td>0xf005c</td><td>bit</td><td>󰁜</td></tr>
-<tr><td>0xf005d</td><td>bitbucket</td><td>󰁝</td></tr>
-<tr><td>0xf005e</td><td>bitcoin</td><td>󰁞</td></tr>
-<tr><td>0xf005f</td><td>bitdefender</td><td>󰁟</td></tr>
-<tr><td>0xf0060</td><td>bitly</td><td>󰁠</td></tr>
-<tr><td>0xf0061</td><td>bitrise</td><td>󰁡</td></tr>
-<tr><td>0xf0062</td><td>blackberry</td><td>󰁢</td></tr>
-<tr><td>0xf0063</td><td>blender</td><td>󰁣</td></tr>
-<tr><td>0xf0064</td><td>blogger</td><td>󰁤</td></tr>
-<tr><td>0xf0065</td><td>bmcsoftware</td><td>󰁥</td></tr>
-<tr><td>0xf0066</td><td>boeing</td><td>󰁦</td></tr>
-<tr><td>0xf0067</td><td>boost</td><td>󰁧</td></tr>
-<tr><td>0xf0068</td><td>bootstrap</td><td>󰁨</td></tr>
-<tr><td>0xf0069</td><td>bower</td><td>󰁩</td></tr>
-<tr><td>0xf006a</td><td>box</td><td>󰁪</td></tr>
-<tr><td>0xf006b</td><td>brand-dot-ai</td><td>󰁫</td></tr>
-<tr><td>0xf006c</td><td>brandfolder</td><td>󰁬</td></tr>
-<tr><td>0xf006d</td><td>brave</td><td>󰁭</td></tr>
-<tr><td>0xf006e</td><td>breaker</td><td>󰁮</td></tr>
-<tr><td>0xf006f</td><td>broadcom</td><td>󰁯</td></tr>
-<tr><td>0xf0070</td><td>buddy</td><td>󰁰</td></tr>
-<tr><td>0xf0071</td><td>buffer</td><td>󰁱</td></tr>
-<tr><td>0xf0072</td><td>buymeacoffee</td><td>󰁲</td></tr>
-<tr><td>0xf0073</td><td>buzzfeed</td><td>󰁳</td></tr>
-<tr><td>0xf0074</td><td>c</td><td>󰁴</td></tr>
-<tr><td>0xf0075</td><td>cakephp</td><td>󰁵</td></tr>
-<tr><td>0xf0076</td><td>campaignmonitor</td><td>󰁶</td></tr>
-<tr><td>0xf0077</td><td>canva</td><td>󰁷</td></tr>
-<tr><td>0xf0078</td><td>cashapp</td><td>󰁸</td></tr>
-<tr><td>0xf0079</td><td>cassandra</td><td>󰁹</td></tr>
-<tr><td>0xf007a</td><td>castorama</td><td>󰁺</td></tr>
-<tr><td>0xf007b</td><td>castro</td><td>󰁻</td></tr>
-<tr><td>0xf007c</td><td>centos</td><td>󰁼</td></tr>
-<tr><td>0xf007d</td><td>cevo</td><td>󰁽</td></tr>
-<tr><td>0xf007e</td><td>chase</td><td>󰁾</td></tr>
-<tr><td>0xf007f</td><td>chef</td><td>󰁿</td></tr>
-<tr><td>0xf0080</td><td>circle</td><td>󰂀</td></tr>
-<tr><td>0xf0081</td><td>circleci</td><td>󰂁</td></tr>
-<tr><td>0xf0082</td><td>cirrusci</td><td>󰂂</td></tr>
-<tr><td>0xf0083</td><td>cisco</td><td>󰂃</td></tr>
-<tr><td>0xf0084</td><td>civicrm</td><td>󰂄</td></tr>
-<tr><td>0xf0085</td><td>clockify</td><td>󰂅</td></tr>
-<tr><td>0xf0086</td><td>clojure</td><td>󰂆</td></tr>
-<tr><td>0xf0087</td><td>cloudbees</td><td>󰂇</td></tr>
-<tr><td>0xf0088</td><td>cloudflare</td><td>󰂈</td></tr>
-<tr><td>0xf0089</td><td>cmake</td><td>󰂉</td></tr>
-<tr><td>0xf008a</td><td>co-op</td><td>󰂊</td></tr>
-<tr><td>0xf008b</td><td>codacy</td><td>󰂋</td></tr>
-<tr><td>0xf008c</td><td>codecademy</td><td>󰂌</td></tr>
-<tr><td>0xf008d</td><td>codechef</td><td>󰂍</td></tr>
-<tr><td>0xf008e</td><td>codeclimate</td><td>󰂎</td></tr>
-<tr><td>0xf008f</td><td>codecov</td><td>󰂏</td></tr>
-<tr><td>0xf0090</td><td>codefactor</td><td>󰂐</td></tr>
-<tr><td>0xf0091</td><td>codeforces</td><td>󰂑</td></tr>
-<tr><td>0xf0092</td><td>codeigniter</td><td>󰂒</td></tr>
-<tr><td>0xf0093</td><td>codepen</td><td>󰂓</td></tr>
-<tr><td>0xf0094</td><td>coderwall</td><td>󰂔</td></tr>
-<tr><td>0xf0095</td><td>codesandbox</td><td>󰂕</td></tr>
-<tr><td>0xf0096</td><td>codeship</td><td>󰂖</td></tr>
-<tr><td>0xf0097</td><td>codewars</td><td>󰂗</td></tr>
-<tr><td>0xf0098</td><td>codio</td><td>󰂘</td></tr>
-<tr><td>0xf0099</td><td>coffeescript</td><td>󰂙</td></tr>
-<tr><td>0xf009a</td><td>coinbase</td><td>󰂚</td></tr>
-<tr><td>0xf009b</td><td>commonworkflowlanguage</td><td>󰂛</td></tr>
-<tr><td>0xf009c</td><td>composer</td><td>󰂜</td></tr>
-<tr><td>0xf009d</td><td>compropago</td><td>󰂝</td></tr>
-<tr><td>0xf009e</td><td>conda-forge</td><td>󰂞</td></tr>
-<tr><td>0xf009f</td><td>conekta</td><td>󰂟</td></tr>
-<tr><td>0xf00a0</td><td>confluence</td><td>󰂠</td></tr>
-<tr><td>0xf00a1</td><td>coronarenderer</td><td>󰂡</td></tr>
-<tr><td>0xf00a2</td><td>coursera</td><td>󰂢</td></tr>
-<tr><td>0xf00a3</td><td>coveralls</td><td>󰂣</td></tr>
-<tr><td>0xf00a4</td><td>cpanel</td><td>󰂤</td></tr>
-<tr><td>0xf00a5</td><td>cplusplus</td><td>󰂥</td></tr>
-<tr><td>0xf00a6</td><td>creativecommons</td><td>󰂦</td></tr>
-<tr><td>0xf00a7</td><td>crehana</td><td>󰂧</td></tr>
-<tr><td>0xf00a8</td><td>crunchbase</td><td>󰂨</td></tr>
-<tr><td>0xf00a9</td><td>crunchyroll</td><td>󰂩</td></tr>
-<tr><td>0xf00aa</td><td>cryengine</td><td>󰂪</td></tr>
-<tr><td>0xf00ab</td><td>csharp</td><td>󰂫</td></tr>
-<tr><td>0xf00ac</td><td>css3</td><td>󰂬</td></tr>
-<tr><td>0xf00ad</td><td>csswizardry</td><td>󰂭</td></tr>
-<tr><td>0xf00ae</td><td>curl</td><td>󰂮</td></tr>
-<tr><td>0xf00af</td><td>d3-dot-js</td><td>󰂯</td></tr>
-<tr><td>0xf00b0</td><td>dailymotion</td><td>󰂰</td></tr>
-<tr><td>0xf00b1</td><td>dart</td><td>󰂱</td></tr>
-<tr><td>0xf00b2</td><td>dashlane</td><td>󰂲</td></tr>
-<tr><td>0xf00b3</td><td>datacamp</td><td>󰂳</td></tr>
-<tr><td>0xf00b4</td><td>dazn</td><td>󰂴</td></tr>
-<tr><td>0xf00b5</td><td>dblp</td><td>󰂵</td></tr>
-<tr><td>0xf00b6</td><td>debian</td><td>󰂶</td></tr>
-<tr><td>0xf00b7</td><td>deepin</td><td>󰂷</td></tr>
-<tr><td>0xf00b8</td><td>deezer</td><td>󰂸</td></tr>
-<tr><td>0xf00b9</td><td>delicious</td><td>󰂹</td></tr>
-<tr><td>0xf00ba</td><td>deliveroo</td><td>󰂺</td></tr>
-<tr><td>0xf00bb</td><td>dell</td><td>󰂻</td></tr>
-<tr><td>0xf00bc</td><td>deno</td><td>󰂼</td></tr>
-<tr><td>0xf00bd</td><td>dependabot</td><td>󰂽</td></tr>
-<tr><td>0xf00be</td><td>designernews</td><td>󰂾</td></tr>
-<tr><td>0xf00bf</td><td>dev-dot-to</td><td>󰂿</td></tr>
-<tr><td>0xf00c0</td><td>deviantart</td><td>󰃀</td></tr>
-<tr><td>0xf00c1</td><td>devrant</td><td>󰃁</td></tr>
-<tr><td>0xf00c2</td><td>diaspora</td><td>󰃂</td></tr>
-<tr><td>0xf00c3</td><td>digg</td><td>󰃃</td></tr>
-<tr><td>0xf00c4</td><td>digitalocean</td><td>󰃄</td></tr>
-<tr><td>0xf00c5</td><td>directus</td><td>󰃅</td></tr>
-<tr><td>0xf00c6</td><td>discord</td><td>󰃆</td></tr>
-<tr><td>0xf00c7</td><td>discourse</td><td>󰃇</td></tr>
-<tr><td>0xf00c8</td><td>discover</td><td>󰃈</td></tr>
-<tr><td>0xf00c9</td><td>disqus</td><td>󰃉</td></tr>
-<tr><td>0xf00ca</td><td>disroot</td><td>󰃊</td></tr>
-<tr><td>0xf00cb</td><td>django</td><td>󰃋</td></tr>
-<tr><td>0xf00cc</td><td>dlna</td><td>󰃌</td></tr>
-<tr><td>0xf00cd</td><td>docker</td><td>󰃍</td></tr>
-<tr><td>0xf00ce</td><td>docusign</td><td>󰃎</td></tr>
-<tr><td>0xf00cf</td><td>dolby</td><td>󰃏</td></tr>
-<tr><td>0xf00d0</td><td>dot-net</td><td>󰃐</td></tr>
-<tr><td>0xf00d1</td><td>draugiem-dot-lv</td><td>󰃑</td></tr>
-<tr><td>0xf00d2</td><td>dribbble</td><td>󰃒</td></tr>
-<tr><td>0xf00d3</td><td>drone</td><td>󰃓</td></tr>
-<tr><td>0xf00d4</td><td>dropbox</td><td>󰃔</td></tr>
-<tr><td>0xf00d5</td><td>drupal</td><td>󰃕</td></tr>
-<tr><td>0xf00d6</td><td>dtube</td><td>󰃖</td></tr>
-<tr><td>0xf00d7</td><td>duckduckgo</td><td>󰃗</td></tr>
-<tr><td>0xf00d8</td><td>dunked</td><td>󰃘</td></tr>
-<tr><td>0xf00d9</td><td>duolingo</td><td>󰃙</td></tr>
-<tr><td>0xf00da</td><td>dynatrace</td><td>󰃚</td></tr>
-<tr><td>0xf00db</td><td>ebay</td><td>󰃛</td></tr>
-<tr><td>0xf00dc</td><td>eclipseide</td><td>󰃜</td></tr>
-<tr><td>0xf00dd</td><td>elastic</td><td>󰃝</td></tr>
-<tr><td>0xf00de</td><td>elasticcloud</td><td>󰃞</td></tr>
-<tr><td>0xf00df</td><td>elasticsearch</td><td>󰃟</td></tr>
-<tr><td>0xf00e0</td><td>elasticstack</td><td>󰃠</td></tr>
-<tr><td>0xf00e1</td><td>electron</td><td>󰃡</td></tr>
-<tr><td>0xf00e2</td><td>elementary</td><td>󰃢</td></tr>
-<tr><td>0xf00e3</td><td>eleventy</td><td>󰃣</td></tr>
-<tr><td>0xf00e4</td><td>ello</td><td>󰃤</td></tr>
-<tr><td>0xf00e5</td><td>elsevier</td><td>󰃥</td></tr>
-<tr><td>0xf00e6</td><td>ember-dot-js</td><td>󰃦</td></tr>
-<tr><td>0xf00e7</td><td>emlakjet</td><td>󰃧</td></tr>
-<tr><td>0xf00e8</td><td>empirekred</td><td>󰃨</td></tr>
-<tr><td>0xf00e9</td><td>envato</td><td>󰃩</td></tr>
-<tr><td>0xf00ea</td><td>epel</td><td>󰃪</td></tr>
-<tr><td>0xf00eb</td><td>epicgames</td><td>󰃫</td></tr>
-<tr><td>0xf00ec</td><td>epson</td><td>󰃬</td></tr>
-<tr><td>0xf00ed</td><td>esea</td><td>󰃭</td></tr>
-<tr><td>0xf00ee</td><td>eslint</td><td>󰃮</td></tr>
-<tr><td>0xf00ef</td><td>ethereum</td><td>󰃯</td></tr>
-<tr><td>0xf00f0</td><td>etsy</td><td>󰃰</td></tr>
-<tr><td>0xf00f1</td><td>eventbrite</td><td>󰃱</td></tr>
-<tr><td>0xf00f2</td><td>eventstore</td><td>󰃲</td></tr>
-<tr><td>0xf00f3</td><td>evernote</td><td>󰃳</td></tr>
-<tr><td>0xf00f4</td><td>everplaces</td><td>󰃴</td></tr>
-<tr><td>0xf00f5</td><td>evry</td><td>󰃵</td></tr>
-<tr><td>0xf00f6</td><td>exercism</td><td>󰃶</td></tr>
-<tr><td>0xf00f7</td><td>expertsexchange</td><td>󰃷</td></tr>
-<tr><td>0xf00f8</td><td>expo</td><td>󰃸</td></tr>
-<tr><td>0xf00f9</td><td>eyeem</td><td>󰃹</td></tr>
-<tr><td>0xf00fa</td><td>f-droid</td><td>󰃺</td></tr>
-<tr><td>0xf00fb</td><td>f-secure</td><td>󰃻</td></tr>
-<tr><td>0xf00fc</td><td>facebook</td><td>󰃼</td></tr>
-<tr><td>0xf00fd</td><td>faceit</td><td>󰃽</td></tr>
-<tr><td>0xf00fe</td><td>fandango</td><td>󰃾</td></tr>
-<tr><td>0xf00ff</td><td>favro</td><td>󰃿</td></tr>
-<tr><td>0xf0100</td><td>feathub</td><td>󰄀</td></tr>
-<tr><td>0xf0101</td><td>fedora</td><td>󰄁</td></tr>
-<tr><td>0xf0102</td><td>feedly</td><td>󰄂</td></tr>
-<tr><td>0xf0103</td><td>fidoalliance</td><td>󰄃</td></tr>
-<tr><td>0xf0104</td><td>figma</td><td>󰄄</td></tr>
-<tr><td>0xf0105</td><td>filezilla</td><td>󰄅</td></tr>
-<tr><td>0xf0106</td><td>firebase</td><td>󰄆</td></tr>
-<tr><td>0xf0107</td><td>fitbit</td><td>󰄇</td></tr>
-<tr><td>0xf0108</td><td>fiverr</td><td>󰄈</td></tr>
-<tr><td>0xf0109</td><td>flask</td><td>󰄉</td></tr>
-<tr><td>0xf010a</td><td>flattr</td><td>󰄊</td></tr>
-<tr><td>0xf010b</td><td>flickr</td><td>󰄋</td></tr>
-<tr><td>0xf010c</td><td>flipboard</td><td>󰄌</td></tr>
-<tr><td>0xf010d</td><td>floatplane</td><td>󰄍</td></tr>
-<tr><td>0xf010e</td><td>flutter</td><td>󰄎</td></tr>
-<tr><td>0xf010f</td><td>fnac</td><td>󰄏</td></tr>
-<tr><td>0xf0110</td><td>formstack</td><td>󰄐</td></tr>
-<tr><td>0xf0111</td><td>fossa</td><td>󰄑</td></tr>
-<tr><td>0xf0112</td><td>fossilscm</td><td>󰄒</td></tr>
-<tr><td>0xf0113</td><td>foursquare</td><td>󰄓</td></tr>
-<tr><td>0xf0114</td><td>framer</td><td>󰄔</td></tr>
-<tr><td>0xf0115</td><td>freebsd</td><td>󰄕</td></tr>
-<tr><td>0xf0116</td><td>freecodecamp</td><td>󰄖</td></tr>
-<tr><td>0xf0117</td><td>fujifilm</td><td>󰄗</td></tr>
-<tr><td>0xf0118</td><td>fujitsu</td><td>󰄘</td></tr>
-<tr><td>0xf0119</td><td>furaffinity</td><td>󰄙</td></tr>
-<tr><td>0xf011a</td><td>furrynetwork</td><td>󰄚</td></tr>
-<tr><td>0xf011b</td><td>garmin</td><td>󰄛</td></tr>
-<tr><td>0xf011c</td><td>gatsby</td><td>󰄜</td></tr>
-<tr><td>0xf011d</td><td>gauges</td><td>󰄝</td></tr>
-<tr><td>0xf011e</td><td>genius</td><td>󰄞</td></tr>
-<tr><td>0xf011f</td><td>gentoo</td><td>󰄟</td></tr>
-<tr><td>0xf0120</td><td>geocaching</td><td>󰄠</td></tr>
-<tr><td>0xf0121</td><td>gerrit</td><td>󰄡</td></tr>
-<tr><td>0xf0122</td><td>ghost</td><td>󰄢</td></tr>
-<tr><td>0xf0123</td><td>gimp</td><td>󰄣</td></tr>
-<tr><td>0xf0124</td><td>git</td><td>󰄤</td></tr>
-<tr><td>0xf0125</td><td>gitea</td><td>󰄥</td></tr>
-<tr><td>0xf0126</td><td>github</td><td>󰄦</td></tr>
-<tr><td>0xf0127</td><td>gitlab</td><td>󰄧</td></tr>
-<tr><td>0xf0128</td><td>gitpod</td><td>󰄨</td></tr>
-<tr><td>0xf0129</td><td>gitter</td><td>󰄩</td></tr>
-<tr><td>0xf012a</td><td>glassdoor</td><td>󰄪</td></tr>
-<tr><td>0xf012b</td><td>glitch</td><td>󰄫</td></tr>
-<tr><td>0xf012c</td><td>gmail</td><td>󰄬</td></tr>
-<tr><td>0xf012d</td><td>gnome</td><td>󰄭</td></tr>
-<tr><td>0xf012e</td><td>gnu</td><td>󰄮</td></tr>
-<tr><td>0xf012f</td><td>gnuicecat</td><td>󰄯</td></tr>
-<tr><td>0xf0130</td><td>gnuprivacyguard</td><td>󰄰</td></tr>
-<tr><td>0xf0131</td><td>gnusocial</td><td>󰄱</td></tr>
-<tr><td>0xf0132</td><td>go</td><td>󰄲</td></tr>
-<tr><td>0xf0133</td><td>godotengine</td><td>󰄳</td></tr>
-<tr><td>0xf0134</td><td>gog-dot-com</td><td>󰄴</td></tr>
-<tr><td>0xf0135</td><td>goldenline</td><td>󰄵</td></tr>
-<tr><td>0xf0136</td><td>goodreads</td><td>󰄶</td></tr>
-<tr><td>0xf0137</td><td>google</td><td>󰄷</td></tr>
-<tr><td>0xf0138</td><td>googleads</td><td>󰄸</td></tr>
-<tr><td>0xf0139</td><td>googleanalytics</td><td>󰄹</td></tr>
-<tr><td>0xf013a</td><td>googlechrome</td><td>󰄺</td></tr>
-<tr><td>0xf013b</td><td>googlecloud</td><td>󰄻</td></tr>
-<tr><td>0xf013c</td><td>googledrive</td><td>󰄼</td></tr>
-<tr><td>0xf013d</td><td>googlehangouts</td><td>󰄽</td></tr>
-<tr><td>0xf013e</td><td>googlehangoutschat</td><td>󰄾</td></tr>
-<tr><td>0xf013f</td><td>googlekeep</td><td>󰄿</td></tr>
-<tr><td>0xf0140</td><td>googlepay</td><td>󰅀</td></tr>
-<tr><td>0xf0141</td><td>googleplay</td><td>󰅁</td></tr>
-<tr><td>0xf0142</td><td>googlepodcasts</td><td>󰅂</td></tr>
-<tr><td>0xf0143</td><td>googlescholar</td><td>󰅃</td></tr>
-<tr><td>0xf0144</td><td>googlesearchconsole</td><td>󰅄</td></tr>
-<tr><td>0xf0145</td><td>gov-dot-uk</td><td>󰅅</td></tr>
-<tr><td>0xf0146</td><td>gradle</td><td>󰅆</td></tr>
-<tr><td>0xf0147</td><td>grafana</td><td>󰅇</td></tr>
-<tr><td>0xf0148</td><td>graphcool</td><td>󰅈</td></tr>
-<tr><td>0xf0149</td><td>graphql</td><td>󰅉</td></tr>
-<tr><td>0xf014a</td><td>grav</td><td>󰅊</td></tr>
-<tr><td>0xf014b</td><td>gravatar</td><td>󰅋</td></tr>
-<tr><td>0xf014c</td><td>greenkeeper</td><td>󰅌</td></tr>
-<tr><td>0xf014d</td><td>greensock</td><td>󰅍</td></tr>
-<tr><td>0xf014e</td><td>groovy</td><td>󰅎</td></tr>
-<tr><td>0xf014f</td><td>groupon</td><td>󰅏</td></tr>
-<tr><td>0xf0150</td><td>gulp</td><td>󰅐</td></tr>
-<tr><td>0xf0151</td><td>gumroad</td><td>󰅑</td></tr>
-<tr><td>0xf0152</td><td>gumtree</td><td>󰅒</td></tr>
-<tr><td>0xf0153</td><td>gutenberg</td><td>󰅓</td></tr>
-<tr><td>0xf0154</td><td>habr</td><td>󰅔</td></tr>
-<tr><td>0xf0155</td><td>hackaday</td><td>󰅕</td></tr>
-<tr><td>0xf0156</td><td>hackerearth</td><td>󰅖</td></tr>
-<tr><td>0xf0157</td><td>hackerone</td><td>󰅗</td></tr>
-<tr><td>0xf0158</td><td>hackerrank</td><td>󰅘</td></tr>
-<tr><td>0xf0159</td><td>hackhands</td><td>󰅙</td></tr>
-<tr><td>0xf015a</td><td>hackster</td><td>󰅚</td></tr>
-<tr><td>0xf015b</td><td>happycow</td><td>󰅛</td></tr>
-<tr><td>0xf015c</td><td>hashnode</td><td>󰅜</td></tr>
-<tr><td>0xf015d</td><td>haskell</td><td>󰅝</td></tr>
-<tr><td>0xf015e</td><td>hatenabookmark</td><td>󰅞</td></tr>
-<tr><td>0xf015f</td><td>haxe</td><td>󰅟</td></tr>
-<tr><td>0xf0160</td><td>helm</td><td>󰅠</td></tr>
-<tr><td>0xf0161</td><td>here</td><td>󰅡</td></tr>
-<tr><td>0xf0162</td><td>heroku</td><td>󰅢</td></tr>
-<tr><td>0xf0163</td><td>hexo</td><td>󰅣</td></tr>
-<tr><td>0xf0164</td><td>highly</td><td>󰅤</td></tr>
-<tr><td>0xf0165</td><td>hipchat</td><td>󰅥</td></tr>
-<tr><td>0xf0166</td><td>hitachi</td><td>󰅦</td></tr>
-<tr><td>0xf0167</td><td>hockeyapp</td><td>󰅧</td></tr>
-<tr><td>0xf0168</td><td>homeassistant</td><td>󰅨</td></tr>
-<tr><td>0xf0169</td><td>homify</td><td>󰅩</td></tr>
-<tr><td>0xf016a</td><td>hootsuite</td><td>󰅪</td></tr>
-<tr><td>0xf016b</td><td>houzz</td><td>󰅫</td></tr>
-<tr><td>0xf016c</td><td>hp</td><td>󰅬</td></tr>
-<tr><td>0xf016d</td><td>html5</td><td>󰅭</td></tr>
-<tr><td>0xf016e</td><td>htmlacademy</td><td>󰅮</td></tr>
-<tr><td>0xf016f</td><td>huawei</td><td>󰅯</td></tr>
-<tr><td>0xf0170</td><td>hubspot</td><td>󰅰</td></tr>
-<tr><td>0xf0171</td><td>hulu</td><td>󰅱</td></tr>
-<tr><td>0xf0172</td><td>humblebundle</td><td>󰅲</td></tr>
-<tr><td>0xf0173</td><td>hurriyetemlak</td><td>󰅳</td></tr>
-<tr><td>0xf0174</td><td>hypothesis</td><td>󰅴</td></tr>
-<tr><td>0xf0175</td><td>iata</td><td>󰅵</td></tr>
-<tr><td>0xf0176</td><td>ibm</td><td>󰅶</td></tr>
-<tr><td>0xf0177</td><td>icloud</td><td>󰅷</td></tr>
-<tr><td>0xf0178</td><td>icomoon</td><td>󰅸</td></tr>
-<tr><td>0xf0179</td><td>icon</td><td>󰅹</td></tr>
-<tr><td>0xf017a</td><td>iconjar</td><td>󰅺</td></tr>
-<tr><td>0xf017b</td><td>icq</td><td>󰅻</td></tr>
-<tr><td>0xf017c</td><td>ideal</td><td>󰅼</td></tr>
-<tr><td>0xf017d</td><td>ifixit</td><td>󰅽</td></tr>
-<tr><td>0xf017e</td><td>imdb</td><td>󰅾</td></tr>
-<tr><td>0xf017f</td><td>imgur</td><td>󰅿</td></tr>
-<tr><td>0xf0180</td><td>indeed</td><td>󰆀</td></tr>
-<tr><td>0xf0181</td><td>influxdb</td><td>󰆁</td></tr>
-<tr><td>0xf0182</td><td>inkscape</td><td>󰆂</td></tr>
-<tr><td>0xf0183</td><td>instacart</td><td>󰆃</td></tr>
-<tr><td>0xf0184</td><td>instagram</td><td>󰆄</td></tr>
-<tr><td>0xf0185</td><td>instapaper</td><td>󰆅</td></tr>
-<tr><td>0xf0186</td><td>intel</td><td>󰆆</td></tr>
-<tr><td>0xf0187</td><td>intellijidea</td><td>󰆇</td></tr>
-<tr><td>0xf0188</td><td>intercom</td><td>󰆈</td></tr>
-<tr><td>0xf0189</td><td>internetarchive</td><td>󰆉</td></tr>
-<tr><td>0xf018a</td><td>internetexplorer</td><td>󰆊</td></tr>
-<tr><td>0xf018b</td><td>invision</td><td>󰆋</td></tr>
-<tr><td>0xf018c</td><td>invoiceninja</td><td>󰆌</td></tr>
-<tr><td>0xf018d</td><td>ionic</td><td>󰆍</td></tr>
-<tr><td>0xf018e</td><td>ios</td><td>󰆎</td></tr>
-<tr><td>0xf018f</td><td>ipfs</td><td>󰆏</td></tr>
-<tr><td>0xf0190</td><td>issuu</td><td>󰆐</td></tr>
-<tr><td>0xf0191</td><td>itch-dot-io</td><td>󰆑</td></tr>
-<tr><td>0xf0192</td><td>itunes</td><td>󰆒</td></tr>
-<tr><td>0xf0193</td><td>jabber</td><td>󰆓</td></tr>
-<tr><td>0xf0194</td><td>java</td><td>󰆔</td></tr>
-<tr><td>0xf0195</td><td>javascript</td><td>󰆕</td></tr>
-<tr><td>0xf0196</td><td>jekyll</td><td>󰆖</td></tr>
-<tr><td>0xf0197</td><td>jenkins</td><td>󰆗</td></tr>
-<tr><td>0xf0198</td><td>jest</td><td>󰆘</td></tr>
-<tr><td>0xf0199</td><td>jet</td><td>󰆙</td></tr>
-<tr><td>0xf019a</td><td>jetbrains</td><td>󰆚</td></tr>
-<tr><td>0xf019b</td><td>jinja</td><td>󰆛</td></tr>
-<tr><td>0xf019c</td><td>jira</td><td>󰆜</td></tr>
-<tr><td>0xf019d</td><td>joomla</td><td>󰆝</td></tr>
-<tr><td>0xf019e</td><td>jquery</td><td>󰆞</td></tr>
-<tr><td>0xf019f</td><td>jsdelivr</td><td>󰆟</td></tr>
-<tr><td>0xf01a0</td><td>jsfiddle</td><td>󰆠</td></tr>
-<tr><td>0xf01a1</td><td>json</td><td>󰆡</td></tr>
-<tr><td>0xf01a2</td><td>jupyter</td><td>󰆢</td></tr>
-<tr><td>0xf01a3</td><td>justgiving</td><td>󰆣</td></tr>
-<tr><td>0xf01a4</td><td>kaggle</td><td>󰆤</td></tr>
-<tr><td>0xf01a5</td><td>kaios</td><td>󰆥</td></tr>
-<tr><td>0xf01a6</td><td>kaspersky</td><td>󰆦</td></tr>
-<tr><td>0xf01a7</td><td>kentico</td><td>󰆧</td></tr>
-<tr><td>0xf01a8</td><td>keras</td><td>󰆨</td></tr>
-<tr><td>0xf01a9</td><td>keybase</td><td>󰆩</td></tr>
-<tr><td>0xf01aa</td><td>keycdn</td><td>󰆪</td></tr>
-<tr><td>0xf01ab</td><td>khanacademy</td><td>󰆫</td></tr>
-<tr><td>0xf01ac</td><td>kibana</td><td>󰆬</td></tr>
-<tr><td>0xf01ad</td><td>kickstarter</td><td>󰆭</td></tr>
-<tr><td>0xf01ae</td><td>kik</td><td>󰆮</td></tr>
-<tr><td>0xf01af</td><td>kirby</td><td>󰆯</td></tr>
-<tr><td>0xf01b0</td><td>klout</td><td>󰆰</td></tr>
-<tr><td>0xf01b1</td><td>known</td><td>󰆱</td></tr>
-<tr><td>0xf01b2</td><td>ko-fi</td><td>󰆲</td></tr>
-<tr><td>0xf01b3</td><td>kodi</td><td>󰆳</td></tr>
-<tr><td>0xf01b4</td><td>koding</td><td>󰆴</td></tr>
-<tr><td>0xf01b5</td><td>kotlin</td><td>󰆵</td></tr>
-<tr><td>0xf01b6</td><td>krita</td><td>󰆶</td></tr>
-<tr><td>0xf01b7</td><td>kubernetes</td><td>󰆷</td></tr>
-<tr><td>0xf01b8</td><td>laravel</td><td>󰆸</td></tr>
-<tr><td>0xf01b9</td><td>laravelhorizon</td><td>󰆹</td></tr>
-<tr><td>0xf01ba</td><td>laravelnova</td><td>󰆺</td></tr>
-<tr><td>0xf01bb</td><td>last-dot-fm</td><td>󰆻</td></tr>
-<tr><td>0xf01bc</td><td>lastpass</td><td>󰆼</td></tr>
-<tr><td>0xf01bd</td><td>latex</td><td>󰆽</td></tr>
-<tr><td>0xf01be</td><td>launchpad</td><td>󰆾</td></tr>
-<tr><td>0xf01bf</td><td>leetcode</td><td>󰆿</td></tr>
-<tr><td>0xf01c0</td><td>lenovo</td><td>󰇀</td></tr>
-<tr><td>0xf01c1</td><td>letsencrypt</td><td>󰇁</td></tr>
-<tr><td>0xf01c2</td><td>letterboxd</td><td>󰇂</td></tr>
-<tr><td>0xf01c3</td><td>lgtm</td><td>󰇃</td></tr>
-<tr><td>0xf01c4</td><td>liberapay</td><td>󰇄</td></tr>
-<tr><td>0xf01c5</td><td>librarything</td><td>󰇅</td></tr>
-<tr><td>0xf01c6</td><td>libreoffice</td><td>󰇆</td></tr>
-<tr><td>0xf01c7</td><td>line</td><td>󰇇</td></tr>
-<tr><td>0xf01c8</td><td>linewebtoon</td><td>󰇈</td></tr>
-<tr><td>0xf01c9</td><td>linkedin</td><td>󰇉</td></tr>
-<tr><td>0xf01ca</td><td>linode</td><td>󰇊</td></tr>
-<tr><td>0xf01cb</td><td>linux</td><td>󰇋</td></tr>
-<tr><td>0xf01cc</td><td>linuxfoundation</td><td>󰇌</td></tr>
-<tr><td>0xf01cd</td><td>linuxmint</td><td>󰇍</td></tr>
-<tr><td>0xf01ce</td><td>livejournal</td><td>󰇎</td></tr>
-<tr><td>0xf01cf</td><td>livestream</td><td>󰇏</td></tr>
-<tr><td>0xf01d0</td><td>llvm</td><td>󰇐</td></tr>
-<tr><td>0xf01d1</td><td>logstash</td><td>󰇑</td></tr>
-<tr><td>0xf01d2</td><td>loop</td><td>󰇒</td></tr>
-<tr><td>0xf01d3</td><td>lua</td><td>󰇓</td></tr>
-<tr><td>0xf01d4</td><td>lufthansa</td><td>󰇔</td></tr>
-<tr><td>0xf01d5</td><td>lumen</td><td>󰇕</td></tr>
-<tr><td>0xf01d6</td><td>lyft</td><td>󰇖</td></tr>
-<tr><td>0xf01d7</td><td>macys</td><td>󰇗</td></tr>
-<tr><td>0xf01d8</td><td>magento</td><td>󰇘</td></tr>
-<tr><td>0xf01d9</td><td>magisk</td><td>󰇙</td></tr>
-<tr><td>0xf01da</td><td>mail-dot-ru</td><td>󰇚</td></tr>
-<tr><td>0xf01db</td><td>mailchimp</td><td>󰇛</td></tr>
-<tr><td>0xf01dc</td><td>makerbot</td><td>󰇜</td></tr>
-<tr><td>0xf01dd</td><td>manageiq</td><td>󰇝</td></tr>
-<tr><td>0xf01de</td><td>manjaro</td><td>󰇞</td></tr>
-<tr><td>0xf01df</td><td>mapbox</td><td>󰇟</td></tr>
-<tr><td>0xf01e0</td><td>markdown</td><td>󰇠</td></tr>
-<tr><td>0xf01e1</td><td>marketo</td><td>󰇡</td></tr>
-<tr><td>0xf01e2</td><td>mastercard</td><td>󰇢</td></tr>
-<tr><td>0xf01e3</td><td>mastodon</td><td>󰇣</td></tr>
-<tr><td>0xf01e4</td><td>materialdesign</td><td>󰇤</td></tr>
-<tr><td>0xf01e5</td><td>mathworks</td><td>󰇥</td></tr>
-<tr><td>0xf01e6</td><td>matrix</td><td>󰇦</td></tr>
-<tr><td>0xf01e7</td><td>mattermost</td><td>󰇧</td></tr>
-<tr><td>0xf01e8</td><td>matternet</td><td>󰇨</td></tr>
-<tr><td>0xf01e9</td><td>mcafee</td><td>󰇩</td></tr>
-<tr><td>0xf01ea</td><td>mdnwebdocs</td><td>󰇪</td></tr>
-<tr><td>0xf01eb</td><td>mediafire</td><td>󰇫</td></tr>
-<tr><td>0xf01ec</td><td>mediatemple</td><td>󰇬</td></tr>
-<tr><td>0xf01ed</td><td>medium</td><td>󰇭</td></tr>
-<tr><td>0xf01ee</td><td>meetup</td><td>󰇮</td></tr>
-<tr><td>0xf01ef</td><td>mega</td><td>󰇯</td></tr>
-<tr><td>0xf01f0</td><td>mendeley</td><td>󰇰</td></tr>
-<tr><td>0xf01f1</td><td>mercedes</td><td>󰇱</td></tr>
-<tr><td>0xf01f2</td><td>messenger</td><td>󰇲</td></tr>
-<tr><td>0xf01f3</td><td>meteor</td><td>󰇳</td></tr>
-<tr><td>0xf01f4</td><td>micro-dot-blog</td><td>󰇴</td></tr>
-<tr><td>0xf01f5</td><td>microgenetics</td><td>󰇵</td></tr>
-<tr><td>0xf01f6</td><td>microsoft</td><td>󰇶</td></tr>
-<tr><td>0xf01f7</td><td>microsoftaccess</td><td>󰇷</td></tr>
-<tr><td>0xf01f8</td><td>microsoftazure</td><td>󰇸</td></tr>
-<tr><td>0xf01f9</td><td>microsoftedge</td><td>󰇹</td></tr>
-<tr><td>0xf01fa</td><td>microsoftexcel</td><td>󰇺</td></tr>
-<tr><td>0xf01fb</td><td>microsoftoffice</td><td>󰇻</td></tr>
-<tr><td>0xf01fc</td><td>microsoftonedrive</td><td>󰇼</td></tr>
-<tr><td>0xf01fd</td><td>microsoftonenote</td><td>󰇽</td></tr>
-<tr><td>0xf01fe</td><td>microsoftoutlook</td><td>󰇾</td></tr>
-<tr><td>0xf01ff</td><td>microsoftpowerpoint</td><td>󰇿</td></tr>
-<tr><td>0xf0200</td><td>microsoftteams</td><td>󰈀</td></tr>
-<tr><td>0xf0201</td><td>microsoftword</td><td>󰈁</td></tr>
-<tr><td>0xf0202</td><td>microstrategy</td><td>󰈂</td></tr>
-<tr><td>0xf0203</td><td>minds</td><td>󰈃</td></tr>
-<tr><td>0xf0204</td><td>minetest</td><td>󰈄</td></tr>
-<tr><td>0xf0205</td><td>minutemailer</td><td>󰈅</td></tr>
-<tr><td>0xf0206</td><td>mix</td><td>󰈆</td></tr>
-<tr><td>0xf0207</td><td>mixcloud</td><td>󰈇</td></tr>
-<tr><td>0xf0208</td><td>mixer</td><td>󰈈</td></tr>
-<tr><td>0xf0209</td><td>mojang</td><td>󰈉</td></tr>
-<tr><td>0xf020a</td><td>monero</td><td>󰈊</td></tr>
-<tr><td>0xf020b</td><td>mongodb</td><td>󰈋</td></tr>
-<tr><td>0xf020c</td><td>monkeytie</td><td>󰈌</td></tr>
-<tr><td>0xf020d</td><td>monogram</td><td>󰈍</td></tr>
-<tr><td>0xf020e</td><td>monster</td><td>󰈎</td></tr>
-<tr><td>0xf020f</td><td>monzo</td><td>󰈏</td></tr>
-<tr><td>0xf0210</td><td>moo</td><td>󰈐</td></tr>
-<tr><td>0xf0211</td><td>mozilla</td><td>󰈑</td></tr>
-<tr><td>0xf0212</td><td>mozillafirefox</td><td>󰈒</td></tr>
-<tr><td>0xf0213</td><td>musescore</td><td>󰈓</td></tr>
-<tr><td>0xf0214</td><td>mxlinux</td><td>󰈔</td></tr>
-<tr><td>0xf0215</td><td>myspace</td><td>󰈕</td></tr>
-<tr><td>0xf0216</td><td>mysql</td><td>󰈖</td></tr>
-<tr><td>0xf0217</td><td>nativescript</td><td>󰈗</td></tr>
-<tr><td>0xf0218</td><td>nec</td><td>󰈘</td></tr>
-<tr><td>0xf0219</td><td>neo4j</td><td>󰈙</td></tr>
-<tr><td>0xf021a</td><td>netflix</td><td>󰈚</td></tr>
-<tr><td>0xf021b</td><td>netlify</td><td>󰈛</td></tr>
-<tr><td>0xf021c</td><td>next-dot-js</td><td>󰈜</td></tr>
-<tr><td>0xf021d</td><td>nextcloud</td><td>󰈝</td></tr>
-<tr><td>0xf021e</td><td>nextdoor</td><td>󰈞</td></tr>
-<tr><td>0xf021f</td><td>nginx</td><td>󰈟</td></tr>
-<tr><td>0xf0220</td><td>nim</td><td>󰈠</td></tr>
-<tr><td>0xf0221</td><td>nintendo</td><td>󰈡</td></tr>
-<tr><td>0xf0222</td><td>nintendo3ds</td><td>󰈢</td></tr>
-<tr><td>0xf0223</td><td>nintendogamecube</td><td>󰈣</td></tr>
-<tr><td>0xf0224</td><td>nintendoswitch</td><td>󰈤</td></tr>
-<tr><td>0xf0225</td><td>node-dot-js</td><td>󰈥</td></tr>
-<tr><td>0xf0226</td><td>node-red</td><td>󰈦</td></tr>
-<tr><td>0xf0227</td><td>nodemon</td><td>󰈧</td></tr>
-<tr><td>0xf0228</td><td>nokia</td><td>󰈨</td></tr>
-<tr><td>0xf0229</td><td>notion</td><td>󰈩</td></tr>
-<tr><td>0xf022a</td><td>notist</td><td>󰈪</td></tr>
-<tr><td>0xf022b</td><td>npm</td><td>󰈫</td></tr>
-<tr><td>0xf022c</td><td>nucleo</td><td>󰈬</td></tr>
-<tr><td>0xf022d</td><td>nuget</td><td>󰈭</td></tr>
-<tr><td>0xf022e</td><td>nutanix</td><td>󰈮</td></tr>
-<tr><td>0xf022f</td><td>nuxt-dot-js</td><td>󰈯</td></tr>
-<tr><td>0xf0230</td><td>nvidia</td><td>󰈰</td></tr>
-<tr><td>0xf0231</td><td>obsstudio</td><td>󰈱</td></tr>
-<tr><td>0xf0232</td><td>ocaml</td><td>󰈲</td></tr>
-<tr><td>0xf0233</td><td>octave</td><td>󰈳</td></tr>
-<tr><td>0xf0234</td><td>octopusdeploy</td><td>󰈴</td></tr>
-<tr><td>0xf0235</td><td>oculus</td><td>󰈵</td></tr>
-<tr><td>0xf0236</td><td>odnoklassniki</td><td>󰈶</td></tr>
-<tr><td>0xf0237</td><td>openaccess</td><td>󰈷</td></tr>
-<tr><td>0xf0238</td><td>openapiinitiative</td><td>󰈸</td></tr>
-<tr><td>0xf0239</td><td>opencollective</td><td>󰈹</td></tr>
-<tr><td>0xf023a</td><td>openid</td><td>󰈺</td></tr>
-<tr><td>0xf023b</td><td>opensourceinitiative</td><td>󰈻</td></tr>
-<tr><td>0xf023c</td><td>openssl</td><td>󰈼</td></tr>
-<tr><td>0xf023d</td><td>openstreetmap</td><td>󰈽</td></tr>
-<tr><td>0xf023e</td><td>opensuse</td><td>󰈾</td></tr>
-<tr><td>0xf023f</td><td>openvpn</td><td>󰈿</td></tr>
-<tr><td>0xf0240</td><td>opera</td><td>󰉀</td></tr>
-<tr><td>0xf0241</td><td>opsgenie</td><td>󰉁</td></tr>
-<tr><td>0xf0242</td><td>oracle</td><td>󰉂</td></tr>
-<tr><td>0xf0243</td><td>orcid</td><td>󰉃</td></tr>
-<tr><td>0xf0244</td><td>origin</td><td>󰉄</td></tr>
-<tr><td>0xf0245</td><td>osmc</td><td>󰉅</td></tr>
-<tr><td>0xf0246</td><td>overcast</td><td>󰉆</td></tr>
-<tr><td>0xf0247</td><td>overleaf</td><td>󰉇</td></tr>
-<tr><td>0xf0248</td><td>ovh</td><td>󰉈</td></tr>
-<tr><td>0xf0249</td><td>pagekit</td><td>󰉉</td></tr>
-<tr><td>0xf024a</td><td>palantir</td><td>󰉊</td></tr>
-<tr><td>0xf024b</td><td>paloaltosoftware</td><td>󰉋</td></tr>
-<tr><td>0xf024c</td><td>pandora</td><td>󰉌</td></tr>
-<tr><td>0xf024d</td><td>pantheon</td><td>󰉍</td></tr>
-<tr><td>0xf024e</td><td>parse-dot-ly</td><td>󰉎</td></tr>
-<tr><td>0xf024f</td><td>pastebin</td><td>󰉏</td></tr>
-<tr><td>0xf0250</td><td>patreon</td><td>󰉐</td></tr>
-<tr><td>0xf0251</td><td>paypal</td><td>󰉑</td></tr>
-<tr><td>0xf0252</td><td>peertube</td><td>󰉒</td></tr>
-<tr><td>0xf0253</td><td>periscope</td><td>󰉓</td></tr>
-<tr><td>0xf0254</td><td>php</td><td>󰉔</td></tr>
-<tr><td>0xf0255</td><td>pi-hole</td><td>󰉕</td></tr>
-<tr><td>0xf0256</td><td>picarto-dot-tv</td><td>󰉖</td></tr>
-<tr><td>0xf0257</td><td>pinboard</td><td>󰉗</td></tr>
-<tr><td>0xf0258</td><td>pingdom</td><td>󰉘</td></tr>
-<tr><td>0xf0259</td><td>pingup</td><td>󰉙</td></tr>
-<tr><td>0xf025a</td><td>pinterest</td><td>󰉚</td></tr>
-<tr><td>0xf025b</td><td>pivotaltracker</td><td>󰉛</td></tr>
-<tr><td>0xf025c</td><td>pjsip</td><td>󰉜</td></tr>
-<tr><td>0xf025d</td><td>plangrid</td><td>󰉝</td></tr>
-<tr><td>0xf025e</td><td>player-dot-me</td><td>󰉞</td></tr>
-<tr><td>0xf025f</td><td>playerfm</td><td>󰉟</td></tr>
-<tr><td>0xf0260</td><td>playstation</td><td>󰉠</td></tr>
-<tr><td>0xf0261</td><td>playstation3</td><td>󰉡</td></tr>
-<tr><td>0xf0262</td><td>playstation4</td><td>󰉢</td></tr>
-<tr><td>0xf0263</td><td>plesk</td><td>󰉣</td></tr>
-<tr><td>0xf0264</td><td>plex</td><td>󰉤</td></tr>
-<tr><td>0xf0265</td><td>pluralsight</td><td>󰉥</td></tr>
-<tr><td>0xf0266</td><td>plurk</td><td>󰉦</td></tr>
-<tr><td>0xf0267</td><td>pocket</td><td>󰉧</td></tr>
-<tr><td>0xf0268</td><td>pocketcasts</td><td>󰉨</td></tr>
-<tr><td>0xf0269</td><td>postgresql</td><td>󰉩</td></tr>
-<tr><td>0xf026a</td><td>postman</td><td>󰉪</td></tr>
-<tr><td>0xf026b</td><td>postwoman</td><td>󰉫</td></tr>
-<tr><td>0xf026c</td><td>powershell</td><td>󰉬</td></tr>
-<tr><td>0xf026d</td><td>prestashop</td><td>󰉭</td></tr>
-<tr><td>0xf026e</td><td>prettier</td><td>󰉮</td></tr>
-<tr><td>0xf026f</td><td>prismic</td><td>󰉯</td></tr>
-<tr><td>0xf0270</td><td>probot</td><td>󰉰</td></tr>
-<tr><td>0xf0271</td><td>processwire</td><td>󰉱</td></tr>
-<tr><td>0xf0272</td><td>producthunt</td><td>󰉲</td></tr>
-<tr><td>0xf0273</td><td>prometheus</td><td>󰉳</td></tr>
-<tr><td>0xf0274</td><td>proto-dot-io</td><td>󰉴</td></tr>
-<tr><td>0xf0275</td><td>protonmail</td><td>󰉵</td></tr>
-<tr><td>0xf0276</td><td>proxmox</td><td>󰉶</td></tr>
-<tr><td>0xf0277</td><td>publons</td><td>󰉷</td></tr>
-<tr><td>0xf0278</td><td>purescript</td><td>󰉸</td></tr>
-<tr><td>0xf0279</td><td>pypi</td><td>󰉹</td></tr>
-<tr><td>0xf027a</td><td>python</td><td>󰉺</td></tr>
-<tr><td>0xf027b</td><td>pytorch</td><td>󰉻</td></tr>
-<tr><td>0xf027c</td><td>pyup</td><td>󰉼</td></tr>
-<tr><td>0xf027d</td><td>qemu</td><td>󰉽</td></tr>
-<tr><td>0xf027e</td><td>qgis</td><td>󰉾</td></tr>
-<tr><td>0xf027f</td><td>qiita</td><td>󰉿</td></tr>
-<tr><td>0xf0280</td><td>qualcomm</td><td>󰊀</td></tr>
-<tr><td>0xf0281</td><td>quantcast</td><td>󰊁</td></tr>
-<tr><td>0xf0282</td><td>quantopian</td><td>󰊂</td></tr>
-<tr><td>0xf0283</td><td>quarkus</td><td>󰊃</td></tr>
-<tr><td>0xf0284</td><td>quicktime</td><td>󰊄</td></tr>
-<tr><td>0xf0285</td><td>quip</td><td>󰊅</td></tr>
-<tr><td>0xf0286</td><td>quora</td><td>󰊆</td></tr>
-<tr><td>0xf0287</td><td>qwiklabs</td><td>󰊇</td></tr>
-<tr><td>0xf0288</td><td>qzone</td><td>󰊈</td></tr>
-<tr><td>0xf0289</td><td>r</td><td>󰊉</td></tr>
-<tr><td>0xf028a</td><td>rabbitmq</td><td>󰊊</td></tr>
-<tr><td>0xf028b</td><td>radiopublic</td><td>󰊋</td></tr>
-<tr><td>0xf028c</td><td>rails</td><td>󰊌</td></tr>
-<tr><td>0xf028d</td><td>raspberrypi</td><td>󰊍</td></tr>
-<tr><td>0xf028e</td><td>react</td><td>󰊎</td></tr>
-<tr><td>0xf028f</td><td>reactos</td><td>󰊏</td></tr>
-<tr><td>0xf0290</td><td>reactrouter</td><td>󰊐</td></tr>
-<tr><td>0xf0291</td><td>readthedocs</td><td>󰊑</td></tr>
-<tr><td>0xf0292</td><td>realm</td><td>󰊒</td></tr>
-<tr><td>0xf0293</td><td>reason</td><td>󰊓</td></tr>
-<tr><td>0xf0294</td><td>reasonstudios</td><td>󰊔</td></tr>
-<tr><td>0xf0295</td><td>redbubble</td><td>󰊕</td></tr>
-<tr><td>0xf0296</td><td>reddit</td><td>󰊖</td></tr>
-<tr><td>0xf0297</td><td>redhat</td><td>󰊗</td></tr>
-<tr><td>0xf0298</td><td>redis</td><td>󰊘</td></tr>
-<tr><td>0xf0299</td><td>redux</td><td>󰊙</td></tr>
-<tr><td>0xf029a</td><td>renren</td><td>󰊚</td></tr>
-<tr><td>0xf029b</td><td>repl-dot-it</td><td>󰊛</td></tr>
-<tr><td>0xf029c</td><td>researchgate</td><td>󰊜</td></tr>
-<tr><td>0xf029d</td><td>reverbnation</td><td>󰊝</td></tr>
-<tr><td>0xf029e</td><td>riot</td><td>󰊞</td></tr>
-<tr><td>0xf029f</td><td>ripple</td><td>󰊟</td></tr>
-<tr><td>0xf02a0</td><td>riseup</td><td>󰊠</td></tr>
-<tr><td>0xf02a1</td><td>rollup-dot-js</td><td>󰊡</td></tr>
-<tr><td>0xf02a2</td><td>roots</td><td>󰊢</td></tr>
-<tr><td>0xf02a3</td><td>roundcube</td><td>󰊣</td></tr>
-<tr><td>0xf02a4</td><td>rss</td><td>󰊤</td></tr>
-<tr><td>0xf02a5</td><td>rstudio</td><td>󰊥</td></tr>
-<tr><td>0xf02a6</td><td>ruby</td><td>󰊦</td></tr>
-<tr><td>0xf02a7</td><td>rubygems</td><td>󰊧</td></tr>
-<tr><td>0xf02a8</td><td>runkeeper</td><td>󰊨</td></tr>
-<tr><td>0xf02a9</td><td>rust</td><td>󰊩</td></tr>
-<tr><td>0xf02aa</td><td>safari</td><td>󰊪</td></tr>
-<tr><td>0xf02ab</td><td>sahibinden</td><td>󰊫</td></tr>
-<tr><td>0xf02ac</td><td>salesforce</td><td>󰊬</td></tr>
-<tr><td>0xf02ad</td><td>saltstack</td><td>󰊭</td></tr>
-<tr><td>0xf02ae</td><td>samsung</td><td>󰊮</td></tr>
-<tr><td>0xf02af</td><td>samsungpay</td><td>󰊯</td></tr>
-<tr><td>0xf02b0</td><td>sap</td><td>󰊰</td></tr>
-<tr><td>0xf02b1</td><td>sass</td><td>󰊱</td></tr>
-<tr><td>0xf02b2</td><td>saucelabs</td><td>󰊲</td></tr>
-<tr><td>0xf02b3</td><td>scala</td><td>󰊳</td></tr>
-<tr><td>0xf02b4</td><td>scaleway</td><td>󰊴</td></tr>
-<tr><td>0xf02b5</td><td>scribd</td><td>󰊵</td></tr>
-<tr><td>0xf02b6</td><td>scrutinizerci</td><td>󰊶</td></tr>
-<tr><td>0xf02b7</td><td>seagate</td><td>󰊷</td></tr>
-<tr><td>0xf02b8</td><td>sega</td><td>󰊸</td></tr>
-<tr><td>0xf02b9</td><td>sellfy</td><td>󰊹</td></tr>
-<tr><td>0xf02ba</td><td>semaphoreci</td><td>󰊺</td></tr>
-<tr><td>0xf02bb</td><td>sensu</td><td>󰊻</td></tr>
-<tr><td>0xf02bc</td><td>sentry</td><td>󰊼</td></tr>
-<tr><td>0xf02bd</td><td>serverfault</td><td>󰊽</td></tr>
-<tr><td>0xf02be</td><td>shazam</td><td>󰊾</td></tr>
-<tr><td>0xf02bf</td><td>shell</td><td>󰊿</td></tr>
-<tr><td>0xf02c0</td><td>shopify</td><td>󰋀</td></tr>
-<tr><td>0xf02c1</td><td>showpad</td><td>󰋁</td></tr>
-<tr><td>0xf02c2</td><td>siemens</td><td>󰋂</td></tr>
-<tr><td>0xf02c3</td><td>signal</td><td>󰋃</td></tr>
-<tr><td>0xf02c4</td><td>simpleicons</td><td>󰋄</td></tr>
-<tr><td>0xf02c5</td><td>sinaweibo</td><td>󰋅</td></tr>
-<tr><td>0xf02c6</td><td>sitepoint</td><td>󰋆</td></tr>
-<tr><td>0xf02c7</td><td>sketch</td><td>󰋇</td></tr>
-<tr><td>0xf02c8</td><td>skillshare</td><td>󰋈</td></tr>
-<tr><td>0xf02c9</td><td>skyliner</td><td>󰋉</td></tr>
-<tr><td>0xf02ca</td><td>skype</td><td>󰋊</td></tr>
-<tr><td>0xf02cb</td><td>slack</td><td>󰋋</td></tr>
-<tr><td>0xf02cc</td><td>slashdot</td><td>󰋌</td></tr>
-<tr><td>0xf02cd</td><td>slickpic</td><td>󰋍</td></tr>
-<tr><td>0xf02ce</td><td>slides</td><td>󰋎</td></tr>
-<tr><td>0xf02cf</td><td>smashingmagazine</td><td>󰋏</td></tr>
-<tr><td>0xf02d0</td><td>smugmug</td><td>󰋐</td></tr>
-<tr><td>0xf02d1</td><td>snapchat</td><td>󰋑</td></tr>
-<tr><td>0xf02d2</td><td>snapcraft</td><td>󰋒</td></tr>
-<tr><td>0xf02d3</td><td>snyk</td><td>󰋓</td></tr>
-<tr><td>0xf02d4</td><td>society6</td><td>󰋔</td></tr>
-<tr><td>0xf02d5</td><td>socket-dot-io</td><td>󰋕</td></tr>
-<tr><td>0xf02d6</td><td>sogou</td><td>󰋖</td></tr>
-<tr><td>0xf02d7</td><td>solus</td><td>󰋗</td></tr>
-<tr><td>0xf02d8</td><td>sonarcloud</td><td>󰋘</td></tr>
-<tr><td>0xf02d9</td><td>sonarlint</td><td>󰋙</td></tr>
-<tr><td>0xf02da</td><td>sonarqube</td><td>󰋚</td></tr>
-<tr><td>0xf02db</td><td>sonarsource</td><td>󰋛</td></tr>
-<tr><td>0xf02dc</td><td>songkick</td><td>󰋜</td></tr>
-<tr><td>0xf02dd</td><td>sonicwall</td><td>󰋝</td></tr>
-<tr><td>0xf02de</td><td>sonos</td><td>󰋞</td></tr>
-<tr><td>0xf02df</td><td>soundcloud</td><td>󰋟</td></tr>
-<tr><td>0xf02e0</td><td>sourceengine</td><td>󰋠</td></tr>
-<tr><td>0xf02e1</td><td>sourceforge</td><td>󰋡</td></tr>
-<tr><td>0xf02e2</td><td>sourcegraph</td><td>󰋢</td></tr>
-<tr><td>0xf02e3</td><td>spacemacs</td><td>󰋣</td></tr>
-<tr><td>0xf02e4</td><td>spacex</td><td>󰋤</td></tr>
-<tr><td>0xf02e5</td><td>sparkfun</td><td>󰋥</td></tr>
-<tr><td>0xf02e6</td><td>sparkpost</td><td>󰋦</td></tr>
-<tr><td>0xf02e7</td><td>spdx</td><td>󰋧</td></tr>
-<tr><td>0xf02e8</td><td>speakerdeck</td><td>󰋨</td></tr>
-<tr><td>0xf02e9</td><td>spectrum</td><td>󰋩</td></tr>
-<tr><td>0xf02ea</td><td>spotify</td><td>󰋪</td></tr>
-<tr><td>0xf02eb</td><td>spotlight</td><td>󰋫</td></tr>
-<tr><td>0xf02ec</td><td>spreaker</td><td>󰋬</td></tr>
-<tr><td>0xf02ed</td><td>spring</td><td>󰋭</td></tr>
-<tr><td>0xf02ee</td><td>sprint</td><td>󰋮</td></tr>
-<tr><td>0xf02ef</td><td>square</td><td>󰋯</td></tr>
-<tr><td>0xf02f0</td><td>squarespace</td><td>󰋰</td></tr>
-<tr><td>0xf02f1</td><td>stackbit</td><td>󰋱</td></tr>
-<tr><td>0xf02f2</td><td>stackexchange</td><td>󰋲</td></tr>
-<tr><td>0xf02f3</td><td>stackoverflow</td><td>󰋳</td></tr>
-<tr><td>0xf02f4</td><td>stackpath</td><td>󰋴</td></tr>
-<tr><td>0xf02f5</td><td>stackshare</td><td>󰋵</td></tr>
-<tr><td>0xf02f6</td><td>stadia</td><td>󰋶</td></tr>
-<tr><td>0xf02f7</td><td>statamic</td><td>󰋷</td></tr>
-<tr><td>0xf02f8</td><td>staticman</td><td>󰋸</td></tr>
-<tr><td>0xf02f9</td><td>statuspage</td><td>󰋹</td></tr>
-<tr><td>0xf02fa</td><td>steam</td><td>󰋺</td></tr>
-<tr><td>0xf02fb</td><td>steamworks</td><td>󰋻</td></tr>
-<tr><td>0xf02fc</td><td>steem</td><td>󰋼</td></tr>
-<tr><td>0xf02fd</td><td>steemit</td><td>󰋽</td></tr>
-<tr><td>0xf02fe</td><td>steinberg</td><td>󰋾</td></tr>
-<tr><td>0xf02ff</td><td>stencyl</td><td>󰋿</td></tr>
-<tr><td>0xf0300</td><td>stitcher</td><td>󰌀</td></tr>
-<tr><td>0xf0301</td><td>storify</td><td>󰌁</td></tr>
-<tr><td>0xf0302</td><td>storybook</td><td>󰌂</td></tr>
-<tr><td>0xf0303</td><td>strapi</td><td>󰌃</td></tr>
-<tr><td>0xf0304</td><td>strava</td><td>󰌄</td></tr>
-<tr><td>0xf0305</td><td>stripe</td><td>󰌅</td></tr>
-<tr><td>0xf0306</td><td>strongswan</td><td>󰌆</td></tr>
-<tr><td>0xf0307</td><td>stubhub</td><td>󰌇</td></tr>
-<tr><td>0xf0308</td><td>styled-components</td><td>󰌈</td></tr>
-<tr><td>0xf0309</td><td>styleshare</td><td>󰌉</td></tr>
-<tr><td>0xf030a</td><td>stylus</td><td>󰌊</td></tr>
-<tr><td>0xf030b</td><td>sublimetext</td><td>󰌋</td></tr>
-<tr><td>0xf030c</td><td>subversion</td><td>󰌌</td></tr>
-<tr><td>0xf030d</td><td>superuser</td><td>󰌍</td></tr>
-<tr><td>0xf030e</td><td>svelte</td><td>󰌎</td></tr>
-<tr><td>0xf030f</td><td>svg</td><td>󰌏</td></tr>
-<tr><td>0xf0310</td><td>svgo</td><td>󰌐</td></tr>
-<tr><td>0xf0311</td><td>swagger</td><td>󰌑</td></tr>
-<tr><td>0xf0312</td><td>swarm</td><td>󰌒</td></tr>
-<tr><td>0xf0313</td><td>swift</td><td>󰌓</td></tr>
-<tr><td>0xf0314</td><td>symantec</td><td>󰌔</td></tr>
-<tr><td>0xf0315</td><td>symfony</td><td>󰌕</td></tr>
-<tr><td>0xf0316</td><td>synology</td><td>󰌖</td></tr>
-<tr><td>0xf0317</td><td>t-mobile</td><td>󰌗</td></tr>
-<tr><td>0xf0318</td><td>tableau</td><td>󰌘</td></tr>
-<tr><td>0xf0319</td><td>tails</td><td>󰌙</td></tr>
-<tr><td>0xf031a</td><td>tailwindcss</td><td>󰌚</td></tr>
-<tr><td>0xf031b</td><td>tapas</td><td>󰌛</td></tr>
-<tr><td>0xf031c</td><td>teamviewer</td><td>󰌜</td></tr>
-<tr><td>0xf031d</td><td>ted</td><td>󰌝</td></tr>
-<tr><td>0xf031e</td><td>teespring</td><td>󰌞</td></tr>
-<tr><td>0xf031f</td><td>telegram</td><td>󰌟</td></tr>
-<tr><td>0xf0320</td><td>tencentqq</td><td>󰌠</td></tr>
-<tr><td>0xf0321</td><td>tencentweibo</td><td>󰌡</td></tr>
-<tr><td>0xf0322</td><td>tensorflow</td><td>󰌢</td></tr>
-<tr><td>0xf0323</td><td>teradata</td><td>󰌣</td></tr>
-<tr><td>0xf0324</td><td>terraform</td><td>󰌤</td></tr>
-<tr><td>0xf0325</td><td>tesla</td><td>󰌥</td></tr>
-<tr><td>0xf0326</td><td>themighty</td><td>󰌦</td></tr>
-<tr><td>0xf0327</td><td>themoviedatabase</td><td>󰌧</td></tr>
-<tr><td>0xf0328</td><td>tidal</td><td>󰌨</td></tr>
-<tr><td>0xf0329</td><td>tiktok</td><td>󰌩</td></tr>
-<tr><td>0xf032a</td><td>timescale</td><td>󰌪</td></tr>
-<tr><td>0xf032b</td><td>tinder</td><td>󰌫</td></tr>
-<tr><td>0xf032c</td><td>todoist</td><td>󰌬</td></tr>
-<tr><td>0xf032d</td><td>toggl</td><td>󰌭</td></tr>
-<tr><td>0xf032e</td><td>topcoder</td><td>󰌮</td></tr>
-<tr><td>0xf032f</td><td>toptal</td><td>󰌯</td></tr>
-<tr><td>0xf0330</td><td>tor</td><td>󰌰</td></tr>
-<tr><td>0xf0331</td><td>toshiba</td><td>󰌱</td></tr>
-<tr><td>0xf0332</td><td>trainerroad</td><td>󰌲</td></tr>
-<tr><td>0xf0333</td><td>trakt</td><td>󰌳</td></tr>
-<tr><td>0xf0334</td><td>travisci</td><td>󰌴</td></tr>
-<tr><td>0xf0335</td><td>treehouse</td><td>󰌵</td></tr>
-<tr><td>0xf0336</td><td>trello</td><td>󰌶</td></tr>
-<tr><td>0xf0337</td><td>trendmicro</td><td>󰌷</td></tr>
-<tr><td>0xf0338</td><td>tripadvisor</td><td>󰌸</td></tr>
-<tr><td>0xf0339</td><td>trulia</td><td>󰌹</td></tr>
-<tr><td>0xf033a</td><td>trustpilot</td><td>󰌺</td></tr>
-<tr><td>0xf033b</td><td>tumblr</td><td>󰌻</td></tr>
-<tr><td>0xf033c</td><td>turkishairlines</td><td>󰌼</td></tr>
-<tr><td>0xf033d</td><td>twilio</td><td>󰌽</td></tr>
-<tr><td>0xf033e</td><td>twitch</td><td>󰌾</td></tr>
-<tr><td>0xf033f</td><td>x</td><td>󰌿</td></tr>
-<tr><td>0xf0340</td><td>twoo</td><td>󰍀</td></tr>
-<tr><td>0xf0341</td><td>typescript</td><td>󰍁</td></tr>
-<tr><td>0xf0342</td><td>typo3</td><td>󰍂</td></tr>
-<tr><td>0xf0343</td><td>uber</td><td>󰍃</td></tr>
-<tr><td>0xf0344</td><td>ubereats</td><td>󰍄</td></tr>
-<tr><td>0xf0345</td><td>ubisoft</td><td>󰍅</td></tr>
-<tr><td>0xf0346</td><td>ublockorigin</td><td>󰍆</td></tr>
-<tr><td>0xf0347</td><td>ubuntu</td><td>󰍇</td></tr>
-<tr><td>0xf0348</td><td>udacity</td><td>󰍈</td></tr>
-<tr><td>0xf0349</td><td>udemy</td><td>󰍉</td></tr>
-<tr><td>0xf034a</td><td>uikit</td><td>󰍊</td></tr>
-<tr><td>0xf034b</td><td>umbraco</td><td>󰍋</td></tr>
-<tr><td>0xf034c</td><td>unity</td><td>󰍌</td></tr>
-<tr><td>0xf034d</td><td>unrealengine</td><td>󰍍</td></tr>
-<tr><td>0xf034e</td><td>unsplash</td><td>󰍎</td></tr>
-<tr><td>0xf034f</td><td>untappd</td><td>󰍏</td></tr>
-<tr><td>0xf0350</td><td>upwork</td><td>󰍐</td></tr>
-<tr><td>0xf0351</td><td>v</td><td>󰍑</td></tr>
-<tr><td>0xf0352</td><td>v8</td><td>󰍒</td></tr>
-<tr><td>0xf0353</td><td>vagrant</td><td>󰍓</td></tr>
-<tr><td>0xf0354</td><td>valve</td><td>󰍔</td></tr>
-<tr><td>0xf0355</td><td>veeam</td><td>󰍕</td></tr>
-<tr><td>0xf0356</td><td>venmo</td><td>󰍖</td></tr>
-<tr><td>0xf0357</td><td>verizon</td><td>󰍗</td></tr>
-<tr><td>0xf0358</td><td>viadeo</td><td>󰍘</td></tr>
-<tr><td>0xf0359</td><td>viber</td><td>󰍙</td></tr>
-<tr><td>0xf035a</td><td>vim</td><td>󰍚</td></tr>
-<tr><td>0xf035b</td><td>vimeo</td><td>󰍛</td></tr>
-<tr><td>0xf035c</td><td>vine</td><td>󰍜</td></tr>
-<tr><td>0xf035d</td><td>virb</td><td>󰍝</td></tr>
-<tr><td>0xf035e</td><td>visa</td><td>󰍞</td></tr>
-<tr><td>0xf035f</td><td>visualstudio</td><td>󰍟</td></tr>
-<tr><td>0xf0360</td><td>visualstudiocode</td><td>󰍠</td></tr>
-<tr><td>0xf0361</td><td>vk</td><td>󰍡</td></tr>
-<tr><td>0xf0362</td><td>vlcmediaplayer</td><td>󰍢</td></tr>
-<tr><td>0xf0363</td><td>vodafone</td><td>󰍣</td></tr>
-<tr><td>0xf0364</td><td>volkswagen</td><td>󰍤</td></tr>
-<tr><td>0xf0365</td><td>vsco</td><td>󰍥</td></tr>
-<tr><td>0xf0366</td><td>vue-dot-js</td><td>󰍦</td></tr>
-<tr><td>0xf0367</td><td>w3c</td><td>󰍧</td></tr>
-<tr><td>0xf0368</td><td>wattpad</td><td>󰍨</td></tr>
-<tr><td>0xf0369</td><td>waze</td><td>󰍩</td></tr>
-<tr><td>0xf036a</td><td>weasyl</td><td>󰍪</td></tr>
-<tr><td>0xf036b</td><td>webauthn</td><td>󰍫</td></tr>
-<tr><td>0xf036c</td><td>webcomponents-dot-org</td><td>󰍬</td></tr>
-<tr><td>0xf036d</td><td>webmin</td><td>󰍭</td></tr>
-<tr><td>0xf036e</td><td>webpack</td><td>󰍮</td></tr>
-<tr><td>0xf036f</td><td>webstorm</td><td>󰍯</td></tr>
-<tr><td>0xf0370</td><td>wechat</td><td>󰍰</td></tr>
-<tr><td>0xf0371</td><td>whatsapp</td><td>󰍱</td></tr>
-<tr><td>0xf0372</td><td>wheniwork</td><td>󰍲</td></tr>
-<tr><td>0xf0373</td><td>whitesource</td><td>󰍳</td></tr>
-<tr><td>0xf0374</td><td>wii</td><td>󰍴</td></tr>
-<tr><td>0xf0375</td><td>wiiu</td><td>󰍵</td></tr>
-<tr><td>0xf0376</td><td>wikipedia</td><td>󰍶</td></tr>
-<tr><td>0xf0377</td><td>windows</td><td>󰍷</td></tr>
-<tr><td>0xf0378</td><td>wire</td><td>󰍸</td></tr>
-<tr><td>0xf0379</td><td>wireguard</td><td>󰍹</td></tr>
-<tr><td>0xf037a</td><td>wish</td><td>󰍺</td></tr>
-<tr><td>0xf037b</td><td>wix</td><td>󰍻</td></tr>
-<tr><td>0xf037c</td><td>wolfram</td><td>󰍼</td></tr>
-<tr><td>0xf037d</td><td>wolframlanguage</td><td>󰍽</td></tr>
-<tr><td>0xf037e</td><td>wolframmathematica</td><td>󰍾</td></tr>
-<tr><td>0xf037f</td><td>wordpress</td><td>󰍿</td></tr>
-<tr><td>0xf0380</td><td>workplace</td><td>󰎀</td></tr>
-<tr><td>0xf0381</td><td>wpengine</td><td>󰎁</td></tr>
-<tr><td>0xf0382</td><td>write-dot-as</td><td>󰎂</td></tr>
-<tr><td>0xf0383</td><td>x-dot-org</td><td>󰎃</td></tr>
-<tr><td>0xf0384</td><td>x-pack</td><td>󰎄</td></tr>
-<tr><td>0xf0385</td><td>xamarin</td><td>󰎅</td></tr>
-<tr><td>0xf0386</td><td>xbox</td><td>󰎆</td></tr>
-<tr><td>0xf0387</td><td>xcode</td><td>󰎇</td></tr>
-<tr><td>0xf0388</td><td>xdadevelopers</td><td>󰎈</td></tr>
-<tr><td>0xf0389</td><td>xero</td><td>󰎉</td></tr>
-<tr><td>0xf038a</td><td>xfce</td><td>󰎊</td></tr>
-<tr><td>0xf038b</td><td>xiaomi</td><td>󰎋</td></tr>
-<tr><td>0xf038c</td><td>xing</td><td>󰎌</td></tr>
-<tr><td>0xf038d</td><td>xmpp</td><td>󰎍</td></tr>
-<tr><td>0xf038e</td><td>xrp</td><td>󰎎</td></tr>
-<tr><td>0xf038f</td><td>xsplit</td><td>󰎏</td></tr>
-<tr><td>0xf0390</td><td>yahoo</td><td>󰎐</td></tr>
-<tr><td>0xf0391</td><td>yamahacorporation</td><td>󰎑</td></tr>
-<tr><td>0xf0392</td><td>yamahamotorcorporation</td><td>󰎒</td></tr>
-<tr><td>0xf0393</td><td>yammer</td><td>󰎓</td></tr>
-<tr><td>0xf0394</td><td>yandex</td><td>󰎔</td></tr>
-<tr><td>0xf0395</td><td>yarn</td><td>󰎕</td></tr>
-<tr><td>0xf0396</td><td>ycombinator</td><td>󰎖</td></tr>
-<tr><td>0xf0397</td><td>yelp</td><td>󰎗</td></tr>
-<tr><td>0xf0398</td><td>youtube</td><td>󰎘</td></tr>
-<tr><td>0xf0399</td><td>zalando</td><td>󰎙</td></tr>
-<tr><td>0xf039a</td><td>zapier</td><td>󰎚</td></tr>
-<tr><td>0xf039b</td><td>zeit</td><td>󰎛</td></tr>
-<tr><td>0xf039c</td><td>zend</td><td>󰎜</td></tr>
-<tr><td>0xf039d</td><td>zendesk</td><td>󰎝</td></tr>
-<tr><td>0xf039e</td><td>zendframework</td><td>󰎞</td></tr>
-<tr><td>0xf039f</td><td>zeromq</td><td>󰎟</td></tr>
-<tr><td>0xf03a0</td><td>zerply</td><td>󰎠</td></tr>
-<tr><td>0xf03a1</td><td>zhihu</td><td>󰎡</td></tr>
-<tr><td>0xf03a2</td><td>zillow</td><td>󰎢</td></tr>
-<tr><td>0xf03a3</td><td>zingat</td><td>󰎣</td></tr>
-<tr><td>0xf03a4</td><td>zoom</td><td>󰎤</td></tr>
-<tr><td>0xf03a5</td><td>zorin</td><td>󰎥</td></tr>
-<tr><td>0xf03a6</td><td>zulip</td><td>󰎦</td></tr>
-<tr><td>0xf03a7</td><td>home3</td><td>󰎧</td></tr>
-<tr><td>0xf03a8</td><td>file-empty</td><td>󰎨</td></tr>
-<tr><td>0xf03a9</td><td>file-text2</td><td>󰎩</td></tr>
-<tr><td>0xf03aa</td><td>file-picture</td><td>󰎪</td></tr>
-<tr><td>0xf03ab</td><td>file-music</td><td>󰎫</td></tr>
-<tr><td>0xf03ac</td><td>file-play</td><td>󰎬</td></tr>
-<tr><td>0xf03ad</td><td>file-video</td><td>󰎭</td></tr>
-<tr><td>0xf03ae</td><td>file-zip</td><td>󰎮</td></tr>
-<tr><td>0xf03af</td><td>paste</td><td>󰎯</td></tr>
-<tr><td>0xf03b0</td><td>folder</td><td>󰎰</td></tr>
-<tr><td>0xf03b1</td><td>folder-plus</td><td>󰎱</td></tr>
-<tr><td>0xf03b2</td><td>folder-minus</td><td>󰎲</td></tr>
-<tr><td>0xf03b3</td><td>folder-download</td><td>󰎳</td></tr>
-<tr><td>0xf03b4</td><td>folder-upload</td><td>󰎴</td></tr>
-<tr><td>0xf03b5</td><td>qrcode</td><td>󰎵</td></tr>
-<tr><td>0xf03b6</td><td>file-pdf</td><td>󰎶</td></tr>
+<tr><td>0xf0000</td><td>cseclogo</td><td class="cseclogo"></td></tr>
+<tr><td>0xf0001</td><td>1password</td><td class="1password"></td></tr>
+<tr><td>0xf0002</td><td>500px</td><td class="500px"></td></tr>
+<tr><td>0xf0003</td><td>abbrobotstudio</td><td class="abbrobotstudio"></td></tr>
+<tr><td>0xf0004</td><td>about-dot-me</td><td class="about-dot-me"></td></tr>
+<tr><td>0xf0005</td><td>abstract</td><td class="abstract"></td></tr>
+<tr><td>0xf0006</td><td>academia</td><td class="academia"></td></tr>
+<tr><td>0xf0007</td><td>accusoft</td><td class="accusoft"></td></tr>
+<tr><td>0xf0008</td><td>acm</td><td class="acm"></td></tr>
+<tr><td>0xf0009</td><td>addthis</td><td class="addthis"></td></tr>
+<tr><td>0xf000a</td><td>adguard</td><td class="adguard"></td></tr>
+<tr><td>0xf000b</td><td>adobe</td><td class="adobe"></td></tr>
+<tr><td>0xf000c</td><td>adobeacrobatreader</td><td class="adobeacrobatreader"></td></tr>
+<tr><td>0xf000d</td><td>adobeaftereffects</td><td class="adobeaftereffects"></td></tr>
+<tr><td>0xf000e</td><td>adobeaudition</td><td class="adobeaudition"></td></tr>
+<tr><td>0xf000f</td><td>adobecreativecloud</td><td class="adobecreativecloud"></td></tr>
+<tr><td>0xf0010</td><td>adobedreamweaver</td><td class="adobedreamweaver"></td></tr>
+<tr><td>0xf0011</td><td>adobeillustrator</td><td class="adobeillustrator"></td></tr>
+<tr><td>0xf0012</td><td>adobeindesign</td><td class="adobeindesign"></td></tr>
+<tr><td>0xf0013</td><td>adobelightroomcc</td><td class="adobelightroomcc"></td></tr>
+<tr><td>0xf0014</td><td>adobelightroomclassic</td><td class="adobelightroomclassic"></td></tr>
+<tr><td>0xf0015</td><td>adobephotoshop</td><td class="adobephotoshop"></td></tr>
+<tr><td>0xf0016</td><td>adobepremiere</td><td class="adobepremiere"></td></tr>
+<tr><td>0xf0017</td><td>adobetypekit</td><td class="adobetypekit"></td></tr>
+<tr><td>0xf0018</td><td>adobexd</td><td class="adobexd"></td></tr>
+<tr><td>0xf0019</td><td>airbnb</td><td class="airbnb"></td></tr>
+<tr><td>0xf001a</td><td>airplayaudio</td><td class="airplayaudio"></td></tr>
+<tr><td>0xf001b</td><td>airplayvideo</td><td class="airplayvideo"></td></tr>
+<tr><td>0xf001c</td><td>algolia</td><td class="algolia"></td></tr>
+<tr><td>0xf001d</td><td>alliedmodders</td><td class="alliedmodders"></td></tr>
+<tr><td>0xf001e</td><td>amazon</td><td class="amazon"></td></tr>
+<tr><td>0xf001f</td><td>amazonalexa</td><td class="amazonalexa"></td></tr>
+<tr><td>0xf0020</td><td>amazonaws</td><td class="amazonaws"></td></tr>
+<tr><td>0xf0021</td><td>amd</td><td class="amd"></td></tr>
+<tr><td>0xf0022</td><td>americanexpress</td><td class="americanexpress"></td></tr>
+<tr><td>0xf0023</td><td>anaconda</td><td class="anaconda"></td></tr>
+<tr><td>0xf0024</td><td>analogue</td><td class="analogue"></td></tr>
+<tr><td>0xf0025</td><td>anchor</td><td class="anchor"></td></tr>
+<tr><td>0xf0026</td><td>android</td><td class="android"></td></tr>
+<tr><td>0xf0027</td><td>angellist</td><td class="angellist"></td></tr>
+<tr><td>0xf0028</td><td>angular</td><td class="angular"></td></tr>
+<tr><td>0xf0029</td><td>angularuniversal</td><td class="angularuniversal"></td></tr>
+<tr><td>0xf002a</td><td>ansible</td><td class="ansible"></td></tr>
+<tr><td>0xf002b</td><td>apache</td><td class="apache"></td></tr>
+<tr><td>0xf002c</td><td>apacheairflow</td><td class="apacheairflow"></td></tr>
+<tr><td>0xf002d</td><td>apachecordova</td><td class="apachecordova"></td></tr>
+<tr><td>0xf002e</td><td>apacheflink</td><td class="apacheflink"></td></tr>
+<tr><td>0xf002f</td><td>apachekafka</td><td class="apachekafka"></td></tr>
+<tr><td>0xf0030</td><td>apachenetbeanside</td><td class="apachenetbeanside"></td></tr>
+<tr><td>0xf0031</td><td>apacheopenoffice</td><td class="apacheopenoffice"></td></tr>
+<tr><td>0xf0032</td><td>apacherocketmq</td><td class="apacherocketmq"></td></tr>
+<tr><td>0xf0033</td><td>apachespark</td><td class="apachespark"></td></tr>
+<tr><td>0xf0034</td><td>apple</td><td class="apple"></td></tr>
+<tr><td>0xf0035</td><td>applemusic</td><td class="applemusic"></td></tr>
+<tr><td>0xf0036</td><td>applepay</td><td class="applepay"></td></tr>
+<tr><td>0xf0037</td><td>applepodcasts</td><td class="applepodcasts"></td></tr>
+<tr><td>0xf0038</td><td>appveyor</td><td class="appveyor"></td></tr>
+<tr><td>0xf0039</td><td>aral</td><td class="aral"></td></tr>
+<tr><td>0xf003a</td><td>archiveofourown</td><td class="archiveofourown"></td></tr>
+<tr><td>0xf003b</td><td>archlinux</td><td class="archlinux"></td></tr>
+<tr><td>0xf003c</td><td>arduino</td><td class="arduino"></td></tr>
+<tr><td>0xf003d</td><td>artstation</td><td class="artstation"></td></tr>
+<tr><td>0xf003e</td><td>arxiv</td><td class="arxiv"></td></tr>
+<tr><td>0xf003f</td><td>asana</td><td class="asana"></td></tr>
+<tr><td>0xf0040</td><td>asciidoctor</td><td class="asciidoctor"></td></tr>
+<tr><td>0xf0041</td><td>at-and-t</td><td class="at-and-t"></td></tr>
+<tr><td>0xf0042</td><td>atlassian</td><td class="atlassian"></td></tr>
+<tr><td>0xf0043</td><td>atom</td><td class="atom"></td></tr>
+<tr><td>0xf0044</td><td>audi</td><td class="audi"></td></tr>
+<tr><td>0xf0045</td><td>audible</td><td class="audible"></td></tr>
+<tr><td>0xf0046</td><td>aurelia</td><td class="aurelia"></td></tr>
+<tr><td>0xf0047</td><td>auth0</td><td class="auth0"></td></tr>
+<tr><td>0xf0048</td><td>automatic</td><td class="automatic"></td></tr>
+<tr><td>0xf0049</td><td>autotask</td><td class="autotask"></td></tr>
+<tr><td>0xf004a</td><td>aventrix</td><td class="aventrix"></td></tr>
+<tr><td>0xf004b</td><td>awesomewm</td><td class="awesomewm"></td></tr>
+<tr><td>0xf004c</td><td>azureartifacts</td><td class="azureartifacts"></td></tr>
+<tr><td>0xf004d</td><td>azuredevops</td><td class="azuredevops"></td></tr>
+<tr><td>0xf004e</td><td>azurepipelines</td><td class="azurepipelines"></td></tr>
+<tr><td>0xf004f</td><td>babel</td><td class="babel"></td></tr>
+<tr><td>0xf0050</td><td>baidu</td><td class="baidu"></td></tr>
+<tr><td>0xf0051</td><td>bamboo</td><td class="bamboo"></td></tr>
+<tr><td>0xf0052</td><td>bancontact</td><td class="bancontact"></td></tr>
+<tr><td>0xf0053</td><td>bandcamp</td><td class="bandcamp"></td></tr>
+<tr><td>0xf0054</td><td>bandlab</td><td class="bandlab"></td></tr>
+<tr><td>0xf0055</td><td>basecamp</td><td class="basecamp"></td></tr>
+<tr><td>0xf0056</td><td>bathasu</td><td class="bathasu"></td></tr>
+<tr><td>0xf0057</td><td>beats</td><td class="beats"></td></tr>
+<tr><td>0xf0058</td><td>beatsbydre</td><td class="beatsbydre"></td></tr>
+<tr><td>0xf0059</td><td>behance</td><td class="behance"></td></tr>
+<tr><td>0xf005a</td><td>bigcartel</td><td class="bigcartel"></td></tr>
+<tr><td>0xf005b</td><td>bing</td><td class="bing"></td></tr>
+<tr><td>0xf005c</td><td>bit</td><td class="bit"></td></tr>
+<tr><td>0xf005d</td><td>bitbucket</td><td class="bitbucket"></td></tr>
+<tr><td>0xf005e</td><td>bitcoin</td><td class="bitcoin"></td></tr>
+<tr><td>0xf005f</td><td>bitdefender</td><td class="bitdefender"></td></tr>
+<tr><td>0xf0060</td><td>bitly</td><td class="bitly"></td></tr>
+<tr><td>0xf0061</td><td>bitrise</td><td class="bitrise"></td></tr>
+<tr><td>0xf0062</td><td>blackberry</td><td class="blackberry"></td></tr>
+<tr><td>0xf0063</td><td>blender</td><td class="blender"></td></tr>
+<tr><td>0xf0064</td><td>blogger</td><td class="blogger"></td></tr>
+<tr><td>0xf0065</td><td>bmcsoftware</td><td class="bmcsoftware"></td></tr>
+<tr><td>0xf0066</td><td>boeing</td><td class="boeing"></td></tr>
+<tr><td>0xf0067</td><td>boost</td><td class="boost"></td></tr>
+<tr><td>0xf0068</td><td>bootstrap</td><td class="bootstrap"></td></tr>
+<tr><td>0xf0069</td><td>bower</td><td class="bower"></td></tr>
+<tr><td>0xf006a</td><td>box</td><td class="box"></td></tr>
+<tr><td>0xf006b</td><td>brand-dot-ai</td><td class="brand-dot-ai"></td></tr>
+<tr><td>0xf006c</td><td>brandfolder</td><td class="brandfolder"></td></tr>
+<tr><td>0xf006d</td><td>brave</td><td class="brave"></td></tr>
+<tr><td>0xf006e</td><td>breaker</td><td class="breaker"></td></tr>
+<tr><td>0xf006f</td><td>broadcom</td><td class="broadcom"></td></tr>
+<tr><td>0xf0070</td><td>buddy</td><td class="buddy"></td></tr>
+<tr><td>0xf0071</td><td>buffer</td><td class="buffer"></td></tr>
+<tr><td>0xf0072</td><td>buymeacoffee</td><td class="buymeacoffee"></td></tr>
+<tr><td>0xf0073</td><td>buzzfeed</td><td class="buzzfeed"></td></tr>
+<tr><td>0xf0074</td><td>c</td><td class="c"></td></tr>
+<tr><td>0xf0075</td><td>cakephp</td><td class="cakephp"></td></tr>
+<tr><td>0xf0076</td><td>campaignmonitor</td><td class="campaignmonitor"></td></tr>
+<tr><td>0xf0077</td><td>canva</td><td class="canva"></td></tr>
+<tr><td>0xf0078</td><td>cashapp</td><td class="cashapp"></td></tr>
+<tr><td>0xf0079</td><td>cassandra</td><td class="cassandra"></td></tr>
+<tr><td>0xf007a</td><td>castorama</td><td class="castorama"></td></tr>
+<tr><td>0xf007b</td><td>castro</td><td class="castro"></td></tr>
+<tr><td>0xf007c</td><td>centos</td><td class="centos"></td></tr>
+<tr><td>0xf007d</td><td>cevo</td><td class="cevo"></td></tr>
+<tr><td>0xf007e</td><td>chase</td><td class="chase"></td></tr>
+<tr><td>0xf007f</td><td>chef</td><td class="chef"></td></tr>
+<tr><td>0xf0080</td><td>circle</td><td class="circle"></td></tr>
+<tr><td>0xf0081</td><td>circleci</td><td class="circleci"></td></tr>
+<tr><td>0xf0082</td><td>cirrusci</td><td class="cirrusci"></td></tr>
+<tr><td>0xf0083</td><td>cisco</td><td class="cisco"></td></tr>
+<tr><td>0xf0084</td><td>civicrm</td><td class="civicrm"></td></tr>
+<tr><td>0xf0085</td><td>clockify</td><td class="clockify"></td></tr>
+<tr><td>0xf0086</td><td>clojure</td><td class="clojure"></td></tr>
+<tr><td>0xf0087</td><td>cloudbees</td><td class="cloudbees"></td></tr>
+<tr><td>0xf0088</td><td>cloudflare</td><td class="cloudflare"></td></tr>
+<tr><td>0xf0089</td><td>cmake</td><td class="cmake"></td></tr>
+<tr><td>0xf008a</td><td>co-op</td><td class="co-op"></td></tr>
+<tr><td>0xf008b</td><td>codacy</td><td class="codacy"></td></tr>
+<tr><td>0xf008c</td><td>codecademy</td><td class="codecademy"></td></tr>
+<tr><td>0xf008d</td><td>codechef</td><td class="codechef"></td></tr>
+<tr><td>0xf008e</td><td>codeclimate</td><td class="codeclimate"></td></tr>
+<tr><td>0xf008f</td><td>codecov</td><td class="codecov"></td></tr>
+<tr><td>0xf0090</td><td>codefactor</td><td class="codefactor"></td></tr>
+<tr><td>0xf0091</td><td>codeforces</td><td class="codeforces"></td></tr>
+<tr><td>0xf0092</td><td>codeigniter</td><td class="codeigniter"></td></tr>
+<tr><td>0xf0093</td><td>codepen</td><td class="codepen"></td></tr>
+<tr><td>0xf0094</td><td>coderwall</td><td class="coderwall"></td></tr>
+<tr><td>0xf0095</td><td>codesandbox</td><td class="codesandbox"></td></tr>
+<tr><td>0xf0096</td><td>codeship</td><td class="codeship"></td></tr>
+<tr><td>0xf0097</td><td>codewars</td><td class="codewars"></td></tr>
+<tr><td>0xf0098</td><td>codio</td><td class="codio"></td></tr>
+<tr><td>0xf0099</td><td>coffeescript</td><td class="coffeescript"></td></tr>
+<tr><td>0xf009a</td><td>coinbase</td><td class="coinbase"></td></tr>
+<tr><td>0xf009b</td><td>commonworkflowlanguage</td><td class="commonworkflowlanguage"></td></tr>
+<tr><td>0xf009c</td><td>composer</td><td class="composer"></td></tr>
+<tr><td>0xf009d</td><td>compropago</td><td class="compropago"></td></tr>
+<tr><td>0xf009e</td><td>conda-forge</td><td class="conda-forge"></td></tr>
+<tr><td>0xf009f</td><td>conekta</td><td class="conekta"></td></tr>
+<tr><td>0xf00a0</td><td>confluence</td><td class="confluence"></td></tr>
+<tr><td>0xf00a1</td><td>coronarenderer</td><td class="coronarenderer"></td></tr>
+<tr><td>0xf00a2</td><td>coursera</td><td class="coursera"></td></tr>
+<tr><td>0xf00a3</td><td>coveralls</td><td class="coveralls"></td></tr>
+<tr><td>0xf00a4</td><td>cpanel</td><td class="cpanel"></td></tr>
+<tr><td>0xf00a5</td><td>cplusplus</td><td class="cplusplus"></td></tr>
+<tr><td>0xf00a6</td><td>creativecommons</td><td class="creativecommons"></td></tr>
+<tr><td>0xf00a7</td><td>crehana</td><td class="crehana"></td></tr>
+<tr><td>0xf00a8</td><td>crunchbase</td><td class="crunchbase"></td></tr>
+<tr><td>0xf00a9</td><td>crunchyroll</td><td class="crunchyroll"></td></tr>
+<tr><td>0xf00aa</td><td>cryengine</td><td class="cryengine"></td></tr>
+<tr><td>0xf00ab</td><td>csharp</td><td class="csharp"></td></tr>
+<tr><td>0xf00ac</td><td>css3</td><td class="css3"></td></tr>
+<tr><td>0xf00ad</td><td>csswizardry</td><td class="csswizardry"></td></tr>
+<tr><td>0xf00ae</td><td>curl</td><td class="curl"></td></tr>
+<tr><td>0xf00af</td><td>d3-dot-js</td><td class="d3-dot-js"></td></tr>
+<tr><td>0xf00b0</td><td>dailymotion</td><td class="dailymotion"></td></tr>
+<tr><td>0xf00b1</td><td>dart</td><td class="dart"></td></tr>
+<tr><td>0xf00b2</td><td>dashlane</td><td class="dashlane"></td></tr>
+<tr><td>0xf00b3</td><td>datacamp</td><td class="datacamp"></td></tr>
+<tr><td>0xf00b4</td><td>dazn</td><td class="dazn"></td></tr>
+<tr><td>0xf00b5</td><td>dblp</td><td class="dblp"></td></tr>
+<tr><td>0xf00b6</td><td>debian</td><td class="debian"></td></tr>
+<tr><td>0xf00b7</td><td>deepin</td><td class="deepin"></td></tr>
+<tr><td>0xf00b8</td><td>deezer</td><td class="deezer"></td></tr>
+<tr><td>0xf00b9</td><td>delicious</td><td class="delicious"></td></tr>
+<tr><td>0xf00ba</td><td>deliveroo</td><td class="deliveroo"></td></tr>
+<tr><td>0xf00bb</td><td>dell</td><td class="dell"></td></tr>
+<tr><td>0xf00bc</td><td>deno</td><td class="deno"></td></tr>
+<tr><td>0xf00bd</td><td>dependabot</td><td class="dependabot"></td></tr>
+<tr><td>0xf00be</td><td>designernews</td><td class="designernews"></td></tr>
+<tr><td>0xf00bf</td><td>dev-dot-to</td><td class="dev-dot-to"></td></tr>
+<tr><td>0xf00c0</td><td>deviantart</td><td class="deviantart"></td></tr>
+<tr><td>0xf00c1</td><td>devrant</td><td class="devrant"></td></tr>
+<tr><td>0xf00c2</td><td>diaspora</td><td class="diaspora"></td></tr>
+<tr><td>0xf00c3</td><td>digg</td><td class="digg"></td></tr>
+<tr><td>0xf00c4</td><td>digitalocean</td><td class="digitalocean"></td></tr>
+<tr><td>0xf00c5</td><td>directus</td><td class="directus"></td></tr>
+<tr><td>0xf00c6</td><td>discord</td><td class="discord"></td></tr>
+<tr><td>0xf00c7</td><td>discourse</td><td class="discourse"></td></tr>
+<tr><td>0xf00c8</td><td>discover</td><td class="discover"></td></tr>
+<tr><td>0xf00c9</td><td>disqus</td><td class="disqus"></td></tr>
+<tr><td>0xf00ca</td><td>disroot</td><td class="disroot"></td></tr>
+<tr><td>0xf00cb</td><td>django</td><td class="django"></td></tr>
+<tr><td>0xf00cc</td><td>dlna</td><td class="dlna"></td></tr>
+<tr><td>0xf00cd</td><td>docker</td><td class="docker"></td></tr>
+<tr><td>0xf00ce</td><td>docusign</td><td class="docusign"></td></tr>
+<tr><td>0xf00cf</td><td>dolby</td><td class="dolby"></td></tr>
+<tr><td>0xf00d0</td><td>dot-net</td><td class="dot-net"></td></tr>
+<tr><td>0xf00d1</td><td>draugiem-dot-lv</td><td class="draugiem-dot-lv"></td></tr>
+<tr><td>0xf00d2</td><td>dribbble</td><td class="dribbble"></td></tr>
+<tr><td>0xf00d3</td><td>drone</td><td class="drone"></td></tr>
+<tr><td>0xf00d4</td><td>dropbox</td><td class="dropbox"></td></tr>
+<tr><td>0xf00d5</td><td>drupal</td><td class="drupal"></td></tr>
+<tr><td>0xf00d6</td><td>dtube</td><td class="dtube"></td></tr>
+<tr><td>0xf00d7</td><td>duckduckgo</td><td class="duckduckgo"></td></tr>
+<tr><td>0xf00d8</td><td>dunked</td><td class="dunked"></td></tr>
+<tr><td>0xf00d9</td><td>duolingo</td><td class="duolingo"></td></tr>
+<tr><td>0xf00da</td><td>dynatrace</td><td class="dynatrace"></td></tr>
+<tr><td>0xf00db</td><td>ebay</td><td class="ebay"></td></tr>
+<tr><td>0xf00dc</td><td>eclipseide</td><td class="eclipseide"></td></tr>
+<tr><td>0xf00dd</td><td>elastic</td><td class="elastic"></td></tr>
+<tr><td>0xf00de</td><td>elasticcloud</td><td class="elasticcloud"></td></tr>
+<tr><td>0xf00df</td><td>elasticsearch</td><td class="elasticsearch"></td></tr>
+<tr><td>0xf00e0</td><td>elasticstack</td><td class="elasticstack"></td></tr>
+<tr><td>0xf00e1</td><td>electron</td><td class="electron"></td></tr>
+<tr><td>0xf00e2</td><td>elementary</td><td class="elementary"></td></tr>
+<tr><td>0xf00e3</td><td>eleventy</td><td class="eleventy"></td></tr>
+<tr><td>0xf00e4</td><td>ello</td><td class="ello"></td></tr>
+<tr><td>0xf00e5</td><td>elsevier</td><td class="elsevier"></td></tr>
+<tr><td>0xf00e6</td><td>ember-dot-js</td><td class="ember-dot-js"></td></tr>
+<tr><td>0xf00e7</td><td>emlakjet</td><td class="emlakjet"></td></tr>
+<tr><td>0xf00e8</td><td>empirekred</td><td class="empirekred"></td></tr>
+<tr><td>0xf00e9</td><td>envato</td><td class="envato"></td></tr>
+<tr><td>0xf00ea</td><td>epel</td><td class="epel"></td></tr>
+<tr><td>0xf00eb</td><td>epicgames</td><td class="epicgames"></td></tr>
+<tr><td>0xf00ec</td><td>epson</td><td class="epson"></td></tr>
+<tr><td>0xf00ed</td><td>esea</td><td class="esea"></td></tr>
+<tr><td>0xf00ee</td><td>eslint</td><td class="eslint"></td></tr>
+<tr><td>0xf00ef</td><td>ethereum</td><td class="ethereum"></td></tr>
+<tr><td>0xf00f0</td><td>etsy</td><td class="etsy"></td></tr>
+<tr><td>0xf00f1</td><td>eventbrite</td><td class="eventbrite"></td></tr>
+<tr><td>0xf00f2</td><td>eventstore</td><td class="eventstore"></td></tr>
+<tr><td>0xf00f3</td><td>evernote</td><td class="evernote"></td></tr>
+<tr><td>0xf00f4</td><td>everplaces</td><td class="everplaces"></td></tr>
+<tr><td>0xf00f5</td><td>evry</td><td class="evry"></td></tr>
+<tr><td>0xf00f6</td><td>exercism</td><td class="exercism"></td></tr>
+<tr><td>0xf00f7</td><td>expertsexchange</td><td class="expertsexchange"></td></tr>
+<tr><td>0xf00f8</td><td>expo</td><td class="expo"></td></tr>
+<tr><td>0xf00f9</td><td>eyeem</td><td class="eyeem"></td></tr>
+<tr><td>0xf00fa</td><td>f-droid</td><td class="f-droid"></td></tr>
+<tr><td>0xf00fb</td><td>f-secure</td><td class="f-secure"></td></tr>
+<tr><td>0xf00fc</td><td>facebook</td><td class="facebook"></td></tr>
+<tr><td>0xf00fd</td><td>faceit</td><td class="faceit"></td></tr>
+<tr><td>0xf00fe</td><td>fandango</td><td class="fandango"></td></tr>
+<tr><td>0xf00ff</td><td>favro</td><td class="favro"></td></tr>
+<tr><td>0xf0100</td><td>feathub</td><td class="feathub"></td></tr>
+<tr><td>0xf0101</td><td>fedora</td><td class="fedora"></td></tr>
+<tr><td>0xf0102</td><td>feedly</td><td class="feedly"></td></tr>
+<tr><td>0xf0103</td><td>fidoalliance</td><td class="fidoalliance"></td></tr>
+<tr><td>0xf0104</td><td>figma</td><td class="figma"></td></tr>
+<tr><td>0xf0105</td><td>filezilla</td><td class="filezilla"></td></tr>
+<tr><td>0xf0106</td><td>firebase</td><td class="firebase"></td></tr>
+<tr><td>0xf0107</td><td>fitbit</td><td class="fitbit"></td></tr>
+<tr><td>0xf0108</td><td>fiverr</td><td class="fiverr"></td></tr>
+<tr><td>0xf0109</td><td>flask</td><td class="flask"></td></tr>
+<tr><td>0xf010a</td><td>flattr</td><td class="flattr"></td></tr>
+<tr><td>0xf010b</td><td>flickr</td><td class="flickr"></td></tr>
+<tr><td>0xf010c</td><td>flipboard</td><td class="flipboard"></td></tr>
+<tr><td>0xf010d</td><td>floatplane</td><td class="floatplane"></td></tr>
+<tr><td>0xf010e</td><td>flutter</td><td class="flutter"></td></tr>
+<tr><td>0xf010f</td><td>fnac</td><td class="fnac"></td></tr>
+<tr><td>0xf0110</td><td>formstack</td><td class="formstack"></td></tr>
+<tr><td>0xf0111</td><td>fossa</td><td class="fossa"></td></tr>
+<tr><td>0xf0112</td><td>fossilscm</td><td class="fossilscm"></td></tr>
+<tr><td>0xf0113</td><td>foursquare</td><td class="foursquare"></td></tr>
+<tr><td>0xf0114</td><td>framer</td><td class="framer"></td></tr>
+<tr><td>0xf0115</td><td>freebsd</td><td class="freebsd"></td></tr>
+<tr><td>0xf0116</td><td>freecodecamp</td><td class="freecodecamp"></td></tr>
+<tr><td>0xf0117</td><td>fujifilm</td><td class="fujifilm"></td></tr>
+<tr><td>0xf0118</td><td>fujitsu</td><td class="fujitsu"></td></tr>
+<tr><td>0xf0119</td><td>furaffinity</td><td class="furaffinity"></td></tr>
+<tr><td>0xf011a</td><td>furrynetwork</td><td class="furrynetwork"></td></tr>
+<tr><td>0xf011b</td><td>garmin</td><td class="garmin"></td></tr>
+<tr><td>0xf011c</td><td>gatsby</td><td class="gatsby"></td></tr>
+<tr><td>0xf011d</td><td>gauges</td><td class="gauges"></td></tr>
+<tr><td>0xf011e</td><td>genius</td><td class="genius"></td></tr>
+<tr><td>0xf011f</td><td>gentoo</td><td class="gentoo"></td></tr>
+<tr><td>0xf0120</td><td>geocaching</td><td class="geocaching"></td></tr>
+<tr><td>0xf0121</td><td>gerrit</td><td class="gerrit"></td></tr>
+<tr><td>0xf0122</td><td>ghost</td><td class="ghost"></td></tr>
+<tr><td>0xf0123</td><td>gimp</td><td class="gimp"></td></tr>
+<tr><td>0xf0124</td><td>git</td><td class="git"></td></tr>
+<tr><td>0xf0125</td><td>gitea</td><td class="gitea"></td></tr>
+<tr><td>0xf0126</td><td>github</td><td class="github"></td></tr>
+<tr><td>0xf0127</td><td>gitlab</td><td class="gitlab"></td></tr>
+<tr><td>0xf0128</td><td>gitpod</td><td class="gitpod"></td></tr>
+<tr><td>0xf0129</td><td>gitter</td><td class="gitter"></td></tr>
+<tr><td>0xf012a</td><td>glassdoor</td><td class="glassdoor"></td></tr>
+<tr><td>0xf012b</td><td>glitch</td><td class="glitch"></td></tr>
+<tr><td>0xf012c</td><td>gmail</td><td class="gmail"></td></tr>
+<tr><td>0xf012d</td><td>gnome</td><td class="gnome"></td></tr>
+<tr><td>0xf012e</td><td>gnu</td><td class="gnu"></td></tr>
+<tr><td>0xf012f</td><td>gnuicecat</td><td class="gnuicecat"></td></tr>
+<tr><td>0xf0130</td><td>gnuprivacyguard</td><td class="gnuprivacyguard"></td></tr>
+<tr><td>0xf0131</td><td>gnusocial</td><td class="gnusocial"></td></tr>
+<tr><td>0xf0132</td><td>go</td><td class="go"></td></tr>
+<tr><td>0xf0133</td><td>godotengine</td><td class="godotengine"></td></tr>
+<tr><td>0xf0134</td><td>gog-dot-com</td><td class="gog-dot-com"></td></tr>
+<tr><td>0xf0135</td><td>goldenline</td><td class="goldenline"></td></tr>
+<tr><td>0xf0136</td><td>goodreads</td><td class="goodreads"></td></tr>
+<tr><td>0xf0137</td><td>google</td><td class="google"></td></tr>
+<tr><td>0xf0138</td><td>googleads</td><td class="googleads"></td></tr>
+<tr><td>0xf0139</td><td>googleanalytics</td><td class="googleanalytics"></td></tr>
+<tr><td>0xf013a</td><td>googlechrome</td><td class="googlechrome"></td></tr>
+<tr><td>0xf013b</td><td>googlecloud</td><td class="googlecloud"></td></tr>
+<tr><td>0xf013c</td><td>googledrive</td><td class="googledrive"></td></tr>
+<tr><td>0xf013d</td><td>googlehangouts</td><td class="googlehangouts"></td></tr>
+<tr><td>0xf013e</td><td>googlehangoutschat</td><td class="googlehangoutschat"></td></tr>
+<tr><td>0xf013f</td><td>googlekeep</td><td class="googlekeep"></td></tr>
+<tr><td>0xf0140</td><td>googlepay</td><td class="googlepay"></td></tr>
+<tr><td>0xf0141</td><td>googleplay</td><td class="googleplay"></td></tr>
+<tr><td>0xf0142</td><td>googlepodcasts</td><td class="googlepodcasts"></td></tr>
+<tr><td>0xf0143</td><td>googlescholar</td><td class="googlescholar"></td></tr>
+<tr><td>0xf0144</td><td>googlesearchconsole</td><td class="googlesearchconsole"></td></tr>
+<tr><td>0xf0145</td><td>gov-dot-uk</td><td class="gov-dot-uk"></td></tr>
+<tr><td>0xf0146</td><td>gradle</td><td class="gradle"></td></tr>
+<tr><td>0xf0147</td><td>grafana</td><td class="grafana"></td></tr>
+<tr><td>0xf0148</td><td>graphcool</td><td class="graphcool"></td></tr>
+<tr><td>0xf0149</td><td>graphql</td><td class="graphql"></td></tr>
+<tr><td>0xf014a</td><td>grav</td><td class="grav"></td></tr>
+<tr><td>0xf014b</td><td>gravatar</td><td class="gravatar"></td></tr>
+<tr><td>0xf014c</td><td>greenkeeper</td><td class="greenkeeper"></td></tr>
+<tr><td>0xf014d</td><td>greensock</td><td class="greensock"></td></tr>
+<tr><td>0xf014e</td><td>groovy</td><td class="groovy"></td></tr>
+<tr><td>0xf014f</td><td>groupon</td><td class="groupon"></td></tr>
+<tr><td>0xf0150</td><td>gulp</td><td class="gulp"></td></tr>
+<tr><td>0xf0151</td><td>gumroad</td><td class="gumroad"></td></tr>
+<tr><td>0xf0152</td><td>gumtree</td><td class="gumtree"></td></tr>
+<tr><td>0xf0153</td><td>gutenberg</td><td class="gutenberg"></td></tr>
+<tr><td>0xf0154</td><td>habr</td><td class="habr"></td></tr>
+<tr><td>0xf0155</td><td>hackaday</td><td class="hackaday"></td></tr>
+<tr><td>0xf0156</td><td>hackerearth</td><td class="hackerearth"></td></tr>
+<tr><td>0xf0157</td><td>hackerone</td><td class="hackerone"></td></tr>
+<tr><td>0xf0158</td><td>hackerrank</td><td class="hackerrank"></td></tr>
+<tr><td>0xf0159</td><td>hackhands</td><td class="hackhands"></td></tr>
+<tr><td>0xf015a</td><td>hackster</td><td class="hackster"></td></tr>
+<tr><td>0xf015b</td><td>happycow</td><td class="happycow"></td></tr>
+<tr><td>0xf015c</td><td>hashnode</td><td class="hashnode"></td></tr>
+<tr><td>0xf015d</td><td>haskell</td><td class="haskell"></td></tr>
+<tr><td>0xf015e</td><td>hatenabookmark</td><td class="hatenabookmark"></td></tr>
+<tr><td>0xf015f</td><td>haxe</td><td class="haxe"></td></tr>
+<tr><td>0xf0160</td><td>helm</td><td class="helm"></td></tr>
+<tr><td>0xf0161</td><td>here</td><td class="here"></td></tr>
+<tr><td>0xf0162</td><td>heroku</td><td class="heroku"></td></tr>
+<tr><td>0xf0163</td><td>hexo</td><td class="hexo"></td></tr>
+<tr><td>0xf0164</td><td>highly</td><td class="highly"></td></tr>
+<tr><td>0xf0165</td><td>hipchat</td><td class="hipchat"></td></tr>
+<tr><td>0xf0166</td><td>hitachi</td><td class="hitachi"></td></tr>
+<tr><td>0xf0167</td><td>hockeyapp</td><td class="hockeyapp"></td></tr>
+<tr><td>0xf0168</td><td>homeassistant</td><td class="homeassistant"></td></tr>
+<tr><td>0xf0169</td><td>homify</td><td class="homify"></td></tr>
+<tr><td>0xf016a</td><td>hootsuite</td><td class="hootsuite"></td></tr>
+<tr><td>0xf016b</td><td>houzz</td><td class="houzz"></td></tr>
+<tr><td>0xf016c</td><td>hp</td><td class="hp"></td></tr>
+<tr><td>0xf016d</td><td>html5</td><td class="html5"></td></tr>
+<tr><td>0xf016e</td><td>htmlacademy</td><td class="htmlacademy"></td></tr>
+<tr><td>0xf016f</td><td>huawei</td><td class="huawei"></td></tr>
+<tr><td>0xf0170</td><td>hubspot</td><td class="hubspot"></td></tr>
+<tr><td>0xf0171</td><td>hulu</td><td class="hulu"></td></tr>
+<tr><td>0xf0172</td><td>humblebundle</td><td class="humblebundle"></td></tr>
+<tr><td>0xf0173</td><td>hurriyetemlak</td><td class="hurriyetemlak"></td></tr>
+<tr><td>0xf0174</td><td>hypothesis</td><td class="hypothesis"></td></tr>
+<tr><td>0xf0175</td><td>iata</td><td class="iata"></td></tr>
+<tr><td>0xf0176</td><td>ibm</td><td class="ibm"></td></tr>
+<tr><td>0xf0177</td><td>icloud</td><td class="icloud"></td></tr>
+<tr><td>0xf0178</td><td>icomoon</td><td class="icomoon"></td></tr>
+<tr><td>0xf0179</td><td>icon</td><td class="icon"></td></tr>
+<tr><td>0xf017a</td><td>iconjar</td><td class="iconjar"></td></tr>
+<tr><td>0xf017b</td><td>icq</td><td class="icq"></td></tr>
+<tr><td>0xf017c</td><td>ideal</td><td class="ideal"></td></tr>
+<tr><td>0xf017d</td><td>ifixit</td><td class="ifixit"></td></tr>
+<tr><td>0xf017e</td><td>imdb</td><td class="imdb"></td></tr>
+<tr><td>0xf017f</td><td>imgur</td><td class="imgur"></td></tr>
+<tr><td>0xf0180</td><td>indeed</td><td class="indeed"></td></tr>
+<tr><td>0xf0181</td><td>influxdb</td><td class="influxdb"></td></tr>
+<tr><td>0xf0182</td><td>inkscape</td><td class="inkscape"></td></tr>
+<tr><td>0xf0183</td><td>instacart</td><td class="instacart"></td></tr>
+<tr><td>0xf0184</td><td>instagram</td><td class="instagram"></td></tr>
+<tr><td>0xf0185</td><td>instapaper</td><td class="instapaper"></td></tr>
+<tr><td>0xf0186</td><td>intel</td><td class="intel"></td></tr>
+<tr><td>0xf0187</td><td>intellijidea</td><td class="intellijidea"></td></tr>
+<tr><td>0xf0188</td><td>intercom</td><td class="intercom"></td></tr>
+<tr><td>0xf0189</td><td>internetarchive</td><td class="internetarchive"></td></tr>
+<tr><td>0xf018a</td><td>internetexplorer</td><td class="internetexplorer"></td></tr>
+<tr><td>0xf018b</td><td>invision</td><td class="invision"></td></tr>
+<tr><td>0xf018c</td><td>invoiceninja</td><td class="invoiceninja"></td></tr>
+<tr><td>0xf018d</td><td>ionic</td><td class="ionic"></td></tr>
+<tr><td>0xf018e</td><td>ios</td><td class="ios"></td></tr>
+<tr><td>0xf018f</td><td>ipfs</td><td class="ipfs"></td></tr>
+<tr><td>0xf0190</td><td>issuu</td><td class="issuu"></td></tr>
+<tr><td>0xf0191</td><td>itch-dot-io</td><td class="itch-dot-io"></td></tr>
+<tr><td>0xf0192</td><td>itunes</td><td class="itunes"></td></tr>
+<tr><td>0xf0193</td><td>jabber</td><td class="jabber"></td></tr>
+<tr><td>0xf0194</td><td>java</td><td class="java"></td></tr>
+<tr><td>0xf0195</td><td>javascript</td><td class="javascript"></td></tr>
+<tr><td>0xf0196</td><td>jekyll</td><td class="jekyll"></td></tr>
+<tr><td>0xf0197</td><td>jenkins</td><td class="jenkins"></td></tr>
+<tr><td>0xf0198</td><td>jest</td><td class="jest"></td></tr>
+<tr><td>0xf0199</td><td>jet</td><td class="jet"></td></tr>
+<tr><td>0xf019a</td><td>jetbrains</td><td class="jetbrains"></td></tr>
+<tr><td>0xf019b</td><td>jinja</td><td class="jinja"></td></tr>
+<tr><td>0xf019c</td><td>jira</td><td class="jira"></td></tr>
+<tr><td>0xf019d</td><td>joomla</td><td class="joomla"></td></tr>
+<tr><td>0xf019e</td><td>jquery</td><td class="jquery"></td></tr>
+<tr><td>0xf019f</td><td>jsdelivr</td><td class="jsdelivr"></td></tr>
+<tr><td>0xf01a0</td><td>jsfiddle</td><td class="jsfiddle"></td></tr>
+<tr><td>0xf01a1</td><td>json</td><td class="json"></td></tr>
+<tr><td>0xf01a2</td><td>jupyter</td><td class="jupyter"></td></tr>
+<tr><td>0xf01a3</td><td>justgiving</td><td class="justgiving"></td></tr>
+<tr><td>0xf01a4</td><td>kaggle</td><td class="kaggle"></td></tr>
+<tr><td>0xf01a5</td><td>kaios</td><td class="kaios"></td></tr>
+<tr><td>0xf01a6</td><td>kaspersky</td><td class="kaspersky"></td></tr>
+<tr><td>0xf01a7</td><td>kentico</td><td class="kentico"></td></tr>
+<tr><td>0xf01a8</td><td>keras</td><td class="keras"></td></tr>
+<tr><td>0xf01a9</td><td>keybase</td><td class="keybase"></td></tr>
+<tr><td>0xf01aa</td><td>keycdn</td><td class="keycdn"></td></tr>
+<tr><td>0xf01ab</td><td>khanacademy</td><td class="khanacademy"></td></tr>
+<tr><td>0xf01ac</td><td>kibana</td><td class="kibana"></td></tr>
+<tr><td>0xf01ad</td><td>kickstarter</td><td class="kickstarter"></td></tr>
+<tr><td>0xf01ae</td><td>kik</td><td class="kik"></td></tr>
+<tr><td>0xf01af</td><td>kirby</td><td class="kirby"></td></tr>
+<tr><td>0xf01b0</td><td>klout</td><td class="klout"></td></tr>
+<tr><td>0xf01b1</td><td>known</td><td class="known"></td></tr>
+<tr><td>0xf01b2</td><td>ko-fi</td><td class="ko-fi"></td></tr>
+<tr><td>0xf01b3</td><td>kodi</td><td class="kodi"></td></tr>
+<tr><td>0xf01b4</td><td>koding</td><td class="koding"></td></tr>
+<tr><td>0xf01b5</td><td>kotlin</td><td class="kotlin"></td></tr>
+<tr><td>0xf01b6</td><td>krita</td><td class="krita"></td></tr>
+<tr><td>0xf01b7</td><td>kubernetes</td><td class="kubernetes"></td></tr>
+<tr><td>0xf01b8</td><td>laravel</td><td class="laravel"></td></tr>
+<tr><td>0xf01b9</td><td>laravelhorizon</td><td class="laravelhorizon"></td></tr>
+<tr><td>0xf01ba</td><td>laravelnova</td><td class="laravelnova"></td></tr>
+<tr><td>0xf01bb</td><td>last-dot-fm</td><td class="last-dot-fm"></td></tr>
+<tr><td>0xf01bc</td><td>lastpass</td><td class="lastpass"></td></tr>
+<tr><td>0xf01bd</td><td>latex</td><td class="latex"></td></tr>
+<tr><td>0xf01be</td><td>launchpad</td><td class="launchpad"></td></tr>
+<tr><td>0xf01bf</td><td>leetcode</td><td class="leetcode"></td></tr>
+<tr><td>0xf01c0</td><td>lenovo</td><td class="lenovo"></td></tr>
+<tr><td>0xf01c1</td><td>letsencrypt</td><td class="letsencrypt"></td></tr>
+<tr><td>0xf01c2</td><td>letterboxd</td><td class="letterboxd"></td></tr>
+<tr><td>0xf01c3</td><td>lgtm</td><td class="lgtm"></td></tr>
+<tr><td>0xf01c4</td><td>liberapay</td><td class="liberapay"></td></tr>
+<tr><td>0xf01c5</td><td>librarything</td><td class="librarything"></td></tr>
+<tr><td>0xf01c6</td><td>libreoffice</td><td class="libreoffice"></td></tr>
+<tr><td>0xf01c7</td><td>line</td><td class="line"></td></tr>
+<tr><td>0xf01c8</td><td>linewebtoon</td><td class="linewebtoon"></td></tr>
+<tr><td>0xf01c9</td><td>linkedin</td><td class="linkedin"></td></tr>
+<tr><td>0xf01ca</td><td>linode</td><td class="linode"></td></tr>
+<tr><td>0xf01cb</td><td>linux</td><td class="linux"></td></tr>
+<tr><td>0xf01cc</td><td>linuxfoundation</td><td class="linuxfoundation"></td></tr>
+<tr><td>0xf01cd</td><td>linuxmint</td><td class="linuxmint"></td></tr>
+<tr><td>0xf01ce</td><td>livejournal</td><td class="livejournal"></td></tr>
+<tr><td>0xf01cf</td><td>livestream</td><td class="livestream"></td></tr>
+<tr><td>0xf01d0</td><td>llvm</td><td class="llvm"></td></tr>
+<tr><td>0xf01d1</td><td>logstash</td><td class="logstash"></td></tr>
+<tr><td>0xf01d2</td><td>loop</td><td class="loop"></td></tr>
+<tr><td>0xf01d3</td><td>lua</td><td class="lua"></td></tr>
+<tr><td>0xf01d4</td><td>lufthansa</td><td class="lufthansa"></td></tr>
+<tr><td>0xf01d5</td><td>lumen</td><td class="lumen"></td></tr>
+<tr><td>0xf01d6</td><td>lyft</td><td class="lyft"></td></tr>
+<tr><td>0xf01d7</td><td>macys</td><td class="macys"></td></tr>
+<tr><td>0xf01d8</td><td>magento</td><td class="magento"></td></tr>
+<tr><td>0xf01d9</td><td>magisk</td><td class="magisk"></td></tr>
+<tr><td>0xf01da</td><td>mail-dot-ru</td><td class="mail-dot-ru"></td></tr>
+<tr><td>0xf01db</td><td>mailchimp</td><td class="mailchimp"></td></tr>
+<tr><td>0xf01dc</td><td>makerbot</td><td class="makerbot"></td></tr>
+<tr><td>0xf01dd</td><td>manageiq</td><td class="manageiq"></td></tr>
+<tr><td>0xf01de</td><td>manjaro</td><td class="manjaro"></td></tr>
+<tr><td>0xf01df</td><td>mapbox</td><td class="mapbox"></td></tr>
+<tr><td>0xf01e0</td><td>markdown</td><td class="markdown"></td></tr>
+<tr><td>0xf01e1</td><td>marketo</td><td class="marketo"></td></tr>
+<tr><td>0xf01e2</td><td>mastercard</td><td class="mastercard"></td></tr>
+<tr><td>0xf01e3</td><td>mastodon</td><td class="mastodon"></td></tr>
+<tr><td>0xf01e4</td><td>materialdesign</td><td class="materialdesign"></td></tr>
+<tr><td>0xf01e5</td><td>mathworks</td><td class="mathworks"></td></tr>
+<tr><td>0xf01e6</td><td>matrix</td><td class="matrix"></td></tr>
+<tr><td>0xf01e7</td><td>mattermost</td><td class="mattermost"></td></tr>
+<tr><td>0xf01e8</td><td>matternet</td><td class="matternet"></td></tr>
+<tr><td>0xf01e9</td><td>mcafee</td><td class="mcafee"></td></tr>
+<tr><td>0xf01ea</td><td>mdnwebdocs</td><td class="mdnwebdocs"></td></tr>
+<tr><td>0xf01eb</td><td>mediafire</td><td class="mediafire"></td></tr>
+<tr><td>0xf01ec</td><td>mediatemple</td><td class="mediatemple"></td></tr>
+<tr><td>0xf01ed</td><td>medium</td><td class="medium"></td></tr>
+<tr><td>0xf01ee</td><td>meetup</td><td class="meetup"></td></tr>
+<tr><td>0xf01ef</td><td>mega</td><td class="mega"></td></tr>
+<tr><td>0xf01f0</td><td>mendeley</td><td class="mendeley"></td></tr>
+<tr><td>0xf01f1</td><td>mercedes</td><td class="mercedes"></td></tr>
+<tr><td>0xf01f2</td><td>messenger</td><td class="messenger"></td></tr>
+<tr><td>0xf01f3</td><td>meteor</td><td class="meteor"></td></tr>
+<tr><td>0xf01f4</td><td>micro-dot-blog</td><td class="micro-dot-blog"></td></tr>
+<tr><td>0xf01f5</td><td>microgenetics</td><td class="microgenetics"></td></tr>
+<tr><td>0xf01f6</td><td>microsoft</td><td class="microsoft"></td></tr>
+<tr><td>0xf01f7</td><td>microsoftaccess</td><td class="microsoftaccess"></td></tr>
+<tr><td>0xf01f8</td><td>microsoftazure</td><td class="microsoftazure"></td></tr>
+<tr><td>0xf01f9</td><td>microsoftedge</td><td class="microsoftedge"></td></tr>
+<tr><td>0xf01fa</td><td>microsoftexcel</td><td class="microsoftexcel"></td></tr>
+<tr><td>0xf01fb</td><td>microsoftoffice</td><td class="microsoftoffice"></td></tr>
+<tr><td>0xf01fc</td><td>microsoftonedrive</td><td class="microsoftonedrive"></td></tr>
+<tr><td>0xf01fd</td><td>microsoftonenote</td><td class="microsoftonenote"></td></tr>
+<tr><td>0xf01fe</td><td>microsoftoutlook</td><td class="microsoftoutlook"></td></tr>
+<tr><td>0xf01ff</td><td>microsoftpowerpoint</td><td class="microsoftpowerpoint"></td></tr>
+<tr><td>0xf0200</td><td>microsoftteams</td><td class="microsoftteams"></td></tr>
+<tr><td>0xf0201</td><td>microsoftword</td><td class="microsoftword"></td></tr>
+<tr><td>0xf0202</td><td>microstrategy</td><td class="microstrategy"></td></tr>
+<tr><td>0xf0203</td><td>minds</td><td class="minds"></td></tr>
+<tr><td>0xf0204</td><td>minetest</td><td class="minetest"></td></tr>
+<tr><td>0xf0205</td><td>minutemailer</td><td class="minutemailer"></td></tr>
+<tr><td>0xf0206</td><td>mix</td><td class="mix"></td></tr>
+<tr><td>0xf0207</td><td>mixcloud</td><td class="mixcloud"></td></tr>
+<tr><td>0xf0208</td><td>mixer</td><td class="mixer"></td></tr>
+<tr><td>0xf0209</td><td>mojang</td><td class="mojang"></td></tr>
+<tr><td>0xf020a</td><td>monero</td><td class="monero"></td></tr>
+<tr><td>0xf020b</td><td>mongodb</td><td class="mongodb"></td></tr>
+<tr><td>0xf020c</td><td>monkeytie</td><td class="monkeytie"></td></tr>
+<tr><td>0xf020d</td><td>monogram</td><td class="monogram"></td></tr>
+<tr><td>0xf020e</td><td>monster</td><td class="monster"></td></tr>
+<tr><td>0xf020f</td><td>monzo</td><td class="monzo"></td></tr>
+<tr><td>0xf0210</td><td>moo</td><td class="moo"></td></tr>
+<tr><td>0xf0211</td><td>mozilla</td><td class="mozilla"></td></tr>
+<tr><td>0xf0212</td><td>mozillafirefox</td><td class="mozillafirefox"></td></tr>
+<tr><td>0xf0213</td><td>musescore</td><td class="musescore"></td></tr>
+<tr><td>0xf0214</td><td>mxlinux</td><td class="mxlinux"></td></tr>
+<tr><td>0xf0215</td><td>myspace</td><td class="myspace"></td></tr>
+<tr><td>0xf0216</td><td>mysql</td><td class="mysql"></td></tr>
+<tr><td>0xf0217</td><td>nativescript</td><td class="nativescript"></td></tr>
+<tr><td>0xf0218</td><td>nec</td><td class="nec"></td></tr>
+<tr><td>0xf0219</td><td>neo4j</td><td class="neo4j"></td></tr>
+<tr><td>0xf021a</td><td>netflix</td><td class="netflix"></td></tr>
+<tr><td>0xf021b</td><td>netlify</td><td class="netlify"></td></tr>
+<tr><td>0xf021c</td><td>next-dot-js</td><td class="next-dot-js"></td></tr>
+<tr><td>0xf021d</td><td>nextcloud</td><td class="nextcloud"></td></tr>
+<tr><td>0xf021e</td><td>nextdoor</td><td class="nextdoor"></td></tr>
+<tr><td>0xf021f</td><td>nginx</td><td class="nginx"></td></tr>
+<tr><td>0xf0220</td><td>nim</td><td class="nim"></td></tr>
+<tr><td>0xf0221</td><td>nintendo</td><td class="nintendo"></td></tr>
+<tr><td>0xf0222</td><td>nintendo3ds</td><td class="nintendo3ds"></td></tr>
+<tr><td>0xf0223</td><td>nintendogamecube</td><td class="nintendogamecube"></td></tr>
+<tr><td>0xf0224</td><td>nintendoswitch</td><td class="nintendoswitch"></td></tr>
+<tr><td>0xf0225</td><td>node-dot-js</td><td class="node-dot-js"></td></tr>
+<tr><td>0xf0226</td><td>node-red</td><td class="node-red"></td></tr>
+<tr><td>0xf0227</td><td>nodemon</td><td class="nodemon"></td></tr>
+<tr><td>0xf0228</td><td>nokia</td><td class="nokia"></td></tr>
+<tr><td>0xf0229</td><td>notion</td><td class="notion"></td></tr>
+<tr><td>0xf022a</td><td>notist</td><td class="notist"></td></tr>
+<tr><td>0xf022b</td><td>npm</td><td class="npm"></td></tr>
+<tr><td>0xf022c</td><td>nucleo</td><td class="nucleo"></td></tr>
+<tr><td>0xf022d</td><td>nuget</td><td class="nuget"></td></tr>
+<tr><td>0xf022e</td><td>nutanix</td><td class="nutanix"></td></tr>
+<tr><td>0xf022f</td><td>nuxt-dot-js</td><td class="nuxt-dot-js"></td></tr>
+<tr><td>0xf0230</td><td>nvidia</td><td class="nvidia"></td></tr>
+<tr><td>0xf0231</td><td>obsstudio</td><td class="obsstudio"></td></tr>
+<tr><td>0xf0232</td><td>ocaml</td><td class="ocaml"></td></tr>
+<tr><td>0xf0233</td><td>octave</td><td class="octave"></td></tr>
+<tr><td>0xf0234</td><td>octopusdeploy</td><td class="octopusdeploy"></td></tr>
+<tr><td>0xf0235</td><td>oculus</td><td class="oculus"></td></tr>
+<tr><td>0xf0236</td><td>odnoklassniki</td><td class="odnoklassniki"></td></tr>
+<tr><td>0xf0237</td><td>openaccess</td><td class="openaccess"></td></tr>
+<tr><td>0xf0238</td><td>openapiinitiative</td><td class="openapiinitiative"></td></tr>
+<tr><td>0xf0239</td><td>opencollective</td><td class="opencollective"></td></tr>
+<tr><td>0xf023a</td><td>openid</td><td class="openid"></td></tr>
+<tr><td>0xf023b</td><td>opensourceinitiative</td><td class="opensourceinitiative"></td></tr>
+<tr><td>0xf023c</td><td>openssl</td><td class="openssl"></td></tr>
+<tr><td>0xf023d</td><td>openstreetmap</td><td class="openstreetmap"></td></tr>
+<tr><td>0xf023e</td><td>opensuse</td><td class="opensuse"></td></tr>
+<tr><td>0xf023f</td><td>openvpn</td><td class="openvpn"></td></tr>
+<tr><td>0xf0240</td><td>opera</td><td class="opera"></td></tr>
+<tr><td>0xf0241</td><td>opsgenie</td><td class="opsgenie"></td></tr>
+<tr><td>0xf0242</td><td>oracle</td><td class="oracle"></td></tr>
+<tr><td>0xf0243</td><td>orcid</td><td class="orcid"></td></tr>
+<tr><td>0xf0244</td><td>origin</td><td class="origin"></td></tr>
+<tr><td>0xf0245</td><td>osmc</td><td class="osmc"></td></tr>
+<tr><td>0xf0246</td><td>overcast</td><td class="overcast"></td></tr>
+<tr><td>0xf0247</td><td>overleaf</td><td class="overleaf"></td></tr>
+<tr><td>0xf0248</td><td>ovh</td><td class="ovh"></td></tr>
+<tr><td>0xf0249</td><td>pagekit</td><td class="pagekit"></td></tr>
+<tr><td>0xf024a</td><td>palantir</td><td class="palantir"></td></tr>
+<tr><td>0xf024b</td><td>paloaltosoftware</td><td class="paloaltosoftware"></td></tr>
+<tr><td>0xf024c</td><td>pandora</td><td class="pandora"></td></tr>
+<tr><td>0xf024d</td><td>pantheon</td><td class="pantheon"></td></tr>
+<tr><td>0xf024e</td><td>parse-dot-ly</td><td class="parse-dot-ly"></td></tr>
+<tr><td>0xf024f</td><td>pastebin</td><td class="pastebin"></td></tr>
+<tr><td>0xf0250</td><td>patreon</td><td class="patreon"></td></tr>
+<tr><td>0xf0251</td><td>paypal</td><td class="paypal"></td></tr>
+<tr><td>0xf0252</td><td>peertube</td><td class="peertube"></td></tr>
+<tr><td>0xf0253</td><td>periscope</td><td class="periscope"></td></tr>
+<tr><td>0xf0254</td><td>php</td><td class="php"></td></tr>
+<tr><td>0xf0255</td><td>pi-hole</td><td class="pi-hole"></td></tr>
+<tr><td>0xf0256</td><td>picarto-dot-tv</td><td class="picarto-dot-tv"></td></tr>
+<tr><td>0xf0257</td><td>pinboard</td><td class="pinboard"></td></tr>
+<tr><td>0xf0258</td><td>pingdom</td><td class="pingdom"></td></tr>
+<tr><td>0xf0259</td><td>pingup</td><td class="pingup"></td></tr>
+<tr><td>0xf025a</td><td>pinterest</td><td class="pinterest"></td></tr>
+<tr><td>0xf025b</td><td>pivotaltracker</td><td class="pivotaltracker"></td></tr>
+<tr><td>0xf025c</td><td>pjsip</td><td class="pjsip"></td></tr>
+<tr><td>0xf025d</td><td>plangrid</td><td class="plangrid"></td></tr>
+<tr><td>0xf025e</td><td>player-dot-me</td><td class="player-dot-me"></td></tr>
+<tr><td>0xf025f</td><td>playerfm</td><td class="playerfm"></td></tr>
+<tr><td>0xf0260</td><td>playstation</td><td class="playstation"></td></tr>
+<tr><td>0xf0261</td><td>playstation3</td><td class="playstation3"></td></tr>
+<tr><td>0xf0262</td><td>playstation4</td><td class="playstation4"></td></tr>
+<tr><td>0xf0263</td><td>plesk</td><td class="plesk"></td></tr>
+<tr><td>0xf0264</td><td>plex</td><td class="plex"></td></tr>
+<tr><td>0xf0265</td><td>pluralsight</td><td class="pluralsight"></td></tr>
+<tr><td>0xf0266</td><td>plurk</td><td class="plurk"></td></tr>
+<tr><td>0xf0267</td><td>pocket</td><td class="pocket"></td></tr>
+<tr><td>0xf0268</td><td>pocketcasts</td><td class="pocketcasts"></td></tr>
+<tr><td>0xf0269</td><td>postgresql</td><td class="postgresql"></td></tr>
+<tr><td>0xf026a</td><td>postman</td><td class="postman"></td></tr>
+<tr><td>0xf026b</td><td>postwoman</td><td class="postwoman"></td></tr>
+<tr><td>0xf026c</td><td>powershell</td><td class="powershell"></td></tr>
+<tr><td>0xf026d</td><td>prestashop</td><td class="prestashop"></td></tr>
+<tr><td>0xf026e</td><td>prettier</td><td class="prettier"></td></tr>
+<tr><td>0xf026f</td><td>prismic</td><td class="prismic"></td></tr>
+<tr><td>0xf0270</td><td>probot</td><td class="probot"></td></tr>
+<tr><td>0xf0271</td><td>processwire</td><td class="processwire"></td></tr>
+<tr><td>0xf0272</td><td>producthunt</td><td class="producthunt"></td></tr>
+<tr><td>0xf0273</td><td>prometheus</td><td class="prometheus"></td></tr>
+<tr><td>0xf0274</td><td>proto-dot-io</td><td class="proto-dot-io"></td></tr>
+<tr><td>0xf0275</td><td>protonmail</td><td class="protonmail"></td></tr>
+<tr><td>0xf0276</td><td>proxmox</td><td class="proxmox"></td></tr>
+<tr><td>0xf0277</td><td>publons</td><td class="publons"></td></tr>
+<tr><td>0xf0278</td><td>purescript</td><td class="purescript"></td></tr>
+<tr><td>0xf0279</td><td>pypi</td><td class="pypi"></td></tr>
+<tr><td>0xf027a</td><td>python</td><td class="python"></td></tr>
+<tr><td>0xf027b</td><td>pytorch</td><td class="pytorch"></td></tr>
+<tr><td>0xf027c</td><td>pyup</td><td class="pyup"></td></tr>
+<tr><td>0xf027d</td><td>qemu</td><td class="qemu"></td></tr>
+<tr><td>0xf027e</td><td>qgis</td><td class="qgis"></td></tr>
+<tr><td>0xf027f</td><td>qiita</td><td class="qiita"></td></tr>
+<tr><td>0xf0280</td><td>qualcomm</td><td class="qualcomm"></td></tr>
+<tr><td>0xf0281</td><td>quantcast</td><td class="quantcast"></td></tr>
+<tr><td>0xf0282</td><td>quantopian</td><td class="quantopian"></td></tr>
+<tr><td>0xf0283</td><td>quarkus</td><td class="quarkus"></td></tr>
+<tr><td>0xf0284</td><td>quicktime</td><td class="quicktime"></td></tr>
+<tr><td>0xf0285</td><td>quip</td><td class="quip"></td></tr>
+<tr><td>0xf0286</td><td>quora</td><td class="quora"></td></tr>
+<tr><td>0xf0287</td><td>qwiklabs</td><td class="qwiklabs"></td></tr>
+<tr><td>0xf0288</td><td>qzone</td><td class="qzone"></td></tr>
+<tr><td>0xf0289</td><td>r</td><td class="r"></td></tr>
+<tr><td>0xf028a</td><td>rabbitmq</td><td class="rabbitmq"></td></tr>
+<tr><td>0xf028b</td><td>radiopublic</td><td class="radiopublic"></td></tr>
+<tr><td>0xf028c</td><td>rails</td><td class="rails"></td></tr>
+<tr><td>0xf028d</td><td>raspberrypi</td><td class="raspberrypi"></td></tr>
+<tr><td>0xf028e</td><td>react</td><td class="react"></td></tr>
+<tr><td>0xf028f</td><td>reactos</td><td class="reactos"></td></tr>
+<tr><td>0xf0290</td><td>reactrouter</td><td class="reactrouter"></td></tr>
+<tr><td>0xf0291</td><td>readthedocs</td><td class="readthedocs"></td></tr>
+<tr><td>0xf0292</td><td>realm</td><td class="realm"></td></tr>
+<tr><td>0xf0293</td><td>reason</td><td class="reason"></td></tr>
+<tr><td>0xf0294</td><td>reasonstudios</td><td class="reasonstudios"></td></tr>
+<tr><td>0xf0295</td><td>redbubble</td><td class="redbubble"></td></tr>
+<tr><td>0xf0296</td><td>reddit</td><td class="reddit"></td></tr>
+<tr><td>0xf0297</td><td>redhat</td><td class="redhat"></td></tr>
+<tr><td>0xf0298</td><td>redis</td><td class="redis"></td></tr>
+<tr><td>0xf0299</td><td>redux</td><td class="redux"></td></tr>
+<tr><td>0xf029a</td><td>renren</td><td class="renren"></td></tr>
+<tr><td>0xf029b</td><td>repl-dot-it</td><td class="repl-dot-it"></td></tr>
+<tr><td>0xf029c</td><td>researchgate</td><td class="researchgate"></td></tr>
+<tr><td>0xf029d</td><td>reverbnation</td><td class="reverbnation"></td></tr>
+<tr><td>0xf029e</td><td>riot</td><td class="riot"></td></tr>
+<tr><td>0xf029f</td><td>ripple</td><td class="ripple"></td></tr>
+<tr><td>0xf02a0</td><td>riseup</td><td class="riseup"></td></tr>
+<tr><td>0xf02a1</td><td>rollup-dot-js</td><td class="rollup-dot-js"></td></tr>
+<tr><td>0xf02a2</td><td>roots</td><td class="roots"></td></tr>
+<tr><td>0xf02a3</td><td>roundcube</td><td class="roundcube"></td></tr>
+<tr><td>0xf02a4</td><td>rss</td><td class="rss"></td></tr>
+<tr><td>0xf02a5</td><td>rstudio</td><td class="rstudio"></td></tr>
+<tr><td>0xf02a6</td><td>ruby</td><td class="ruby"></td></tr>
+<tr><td>0xf02a7</td><td>rubygems</td><td class="rubygems"></td></tr>
+<tr><td>0xf02a8</td><td>runkeeper</td><td class="runkeeper"></td></tr>
+<tr><td>0xf02a9</td><td>rust</td><td class="rust"></td></tr>
+<tr><td>0xf02aa</td><td>safari</td><td class="safari"></td></tr>
+<tr><td>0xf02ab</td><td>sahibinden</td><td class="sahibinden"></td></tr>
+<tr><td>0xf02ac</td><td>salesforce</td><td class="salesforce"></td></tr>
+<tr><td>0xf02ad</td><td>saltstack</td><td class="saltstack"></td></tr>
+<tr><td>0xf02ae</td><td>samsung</td><td class="samsung"></td></tr>
+<tr><td>0xf02af</td><td>samsungpay</td><td class="samsungpay"></td></tr>
+<tr><td>0xf02b0</td><td>sap</td><td class="sap"></td></tr>
+<tr><td>0xf02b1</td><td>sass</td><td class="sass"></td></tr>
+<tr><td>0xf02b2</td><td>saucelabs</td><td class="saucelabs"></td></tr>
+<tr><td>0xf02b3</td><td>scala</td><td class="scala"></td></tr>
+<tr><td>0xf02b4</td><td>scaleway</td><td class="scaleway"></td></tr>
+<tr><td>0xf02b5</td><td>scribd</td><td class="scribd"></td></tr>
+<tr><td>0xf02b6</td><td>scrutinizerci</td><td class="scrutinizerci"></td></tr>
+<tr><td>0xf02b7</td><td>seagate</td><td class="seagate"></td></tr>
+<tr><td>0xf02b8</td><td>sega</td><td class="sega"></td></tr>
+<tr><td>0xf02b9</td><td>sellfy</td><td class="sellfy"></td></tr>
+<tr><td>0xf02ba</td><td>semaphoreci</td><td class="semaphoreci"></td></tr>
+<tr><td>0xf02bb</td><td>sensu</td><td class="sensu"></td></tr>
+<tr><td>0xf02bc</td><td>sentry</td><td class="sentry"></td></tr>
+<tr><td>0xf02bd</td><td>serverfault</td><td class="serverfault"></td></tr>
+<tr><td>0xf02be</td><td>shazam</td><td class="shazam"></td></tr>
+<tr><td>0xf02bf</td><td>shell</td><td class="shell"></td></tr>
+<tr><td>0xf02c0</td><td>shopify</td><td class="shopify"></td></tr>
+<tr><td>0xf02c1</td><td>showpad</td><td class="showpad"></td></tr>
+<tr><td>0xf02c2</td><td>siemens</td><td class="siemens"></td></tr>
+<tr><td>0xf02c3</td><td>signal</td><td class="signal"></td></tr>
+<tr><td>0xf02c4</td><td>simpleicons</td><td class="simpleicons"></td></tr>
+<tr><td>0xf02c5</td><td>sinaweibo</td><td class="sinaweibo"></td></tr>
+<tr><td>0xf02c6</td><td>sitepoint</td><td class="sitepoint"></td></tr>
+<tr><td>0xf02c7</td><td>sketch</td><td class="sketch"></td></tr>
+<tr><td>0xf02c8</td><td>skillshare</td><td class="skillshare"></td></tr>
+<tr><td>0xf02c9</td><td>skyliner</td><td class="skyliner"></td></tr>
+<tr><td>0xf02ca</td><td>skype</td><td class="skype"></td></tr>
+<tr><td>0xf02cb</td><td>slack</td><td class="slack"></td></tr>
+<tr><td>0xf02cc</td><td>slashdot</td><td class="slashdot"></td></tr>
+<tr><td>0xf02cd</td><td>slickpic</td><td class="slickpic"></td></tr>
+<tr><td>0xf02ce</td><td>slides</td><td class="slides"></td></tr>
+<tr><td>0xf02cf</td><td>smashingmagazine</td><td class="smashingmagazine"></td></tr>
+<tr><td>0xf02d0</td><td>smugmug</td><td class="smugmug"></td></tr>
+<tr><td>0xf02d1</td><td>snapchat</td><td class="snapchat"></td></tr>
+<tr><td>0xf02d2</td><td>snapcraft</td><td class="snapcraft"></td></tr>
+<tr><td>0xf02d3</td><td>snyk</td><td class="snyk"></td></tr>
+<tr><td>0xf02d4</td><td>society6</td><td class="society6"></td></tr>
+<tr><td>0xf02d5</td><td>socket-dot-io</td><td class="socket-dot-io"></td></tr>
+<tr><td>0xf02d6</td><td>sogou</td><td class="sogou"></td></tr>
+<tr><td>0xf02d7</td><td>solus</td><td class="solus"></td></tr>
+<tr><td>0xf02d8</td><td>sonarcloud</td><td class="sonarcloud"></td></tr>
+<tr><td>0xf02d9</td><td>sonarlint</td><td class="sonarlint"></td></tr>
+<tr><td>0xf02da</td><td>sonarqube</td><td class="sonarqube"></td></tr>
+<tr><td>0xf02db</td><td>sonarsource</td><td class="sonarsource"></td></tr>
+<tr><td>0xf02dc</td><td>songkick</td><td class="songkick"></td></tr>
+<tr><td>0xf02dd</td><td>sonicwall</td><td class="sonicwall"></td></tr>
+<tr><td>0xf02de</td><td>sonos</td><td class="sonos"></td></tr>
+<tr><td>0xf02df</td><td>soundcloud</td><td class="soundcloud"></td></tr>
+<tr><td>0xf02e0</td><td>sourceengine</td><td class="sourceengine"></td></tr>
+<tr><td>0xf02e1</td><td>sourceforge</td><td class="sourceforge"></td></tr>
+<tr><td>0xf02e2</td><td>sourcegraph</td><td class="sourcegraph"></td></tr>
+<tr><td>0xf02e3</td><td>spacemacs</td><td class="spacemacs"></td></tr>
+<tr><td>0xf02e4</td><td>spacex</td><td class="spacex"></td></tr>
+<tr><td>0xf02e5</td><td>sparkfun</td><td class="sparkfun"></td></tr>
+<tr><td>0xf02e6</td><td>sparkpost</td><td class="sparkpost"></td></tr>
+<tr><td>0xf02e7</td><td>spdx</td><td class="spdx"></td></tr>
+<tr><td>0xf02e8</td><td>speakerdeck</td><td class="speakerdeck"></td></tr>
+<tr><td>0xf02e9</td><td>spectrum</td><td class="spectrum"></td></tr>
+<tr><td>0xf02ea</td><td>spotify</td><td class="spotify"></td></tr>
+<tr><td>0xf02eb</td><td>spotlight</td><td class="spotlight"></td></tr>
+<tr><td>0xf02ec</td><td>spreaker</td><td class="spreaker"></td></tr>
+<tr><td>0xf02ed</td><td>spring</td><td class="spring"></td></tr>
+<tr><td>0xf02ee</td><td>sprint</td><td class="sprint"></td></tr>
+<tr><td>0xf02ef</td><td>square</td><td class="square"></td></tr>
+<tr><td>0xf02f0</td><td>squarespace</td><td class="squarespace"></td></tr>
+<tr><td>0xf02f1</td><td>stackbit</td><td class="stackbit"></td></tr>
+<tr><td>0xf02f2</td><td>stackexchange</td><td class="stackexchange"></td></tr>
+<tr><td>0xf02f3</td><td>stackoverflow</td><td class="stackoverflow"></td></tr>
+<tr><td>0xf02f4</td><td>stackpath</td><td class="stackpath"></td></tr>
+<tr><td>0xf02f5</td><td>stackshare</td><td class="stackshare"></td></tr>
+<tr><td>0xf02f6</td><td>stadia</td><td class="stadia"></td></tr>
+<tr><td>0xf02f7</td><td>statamic</td><td class="statamic"></td></tr>
+<tr><td>0xf02f8</td><td>staticman</td><td class="staticman"></td></tr>
+<tr><td>0xf02f9</td><td>statuspage</td><td class="statuspage"></td></tr>
+<tr><td>0xf02fa</td><td>steam</td><td class="steam"></td></tr>
+<tr><td>0xf02fb</td><td>steamworks</td><td class="steamworks"></td></tr>
+<tr><td>0xf02fc</td><td>steem</td><td class="steem"></td></tr>
+<tr><td>0xf02fd</td><td>steemit</td><td class="steemit"></td></tr>
+<tr><td>0xf02fe</td><td>steinberg</td><td class="steinberg"></td></tr>
+<tr><td>0xf02ff</td><td>stencyl</td><td class="stencyl"></td></tr>
+<tr><td>0xf0300</td><td>stitcher</td><td class="stitcher"></td></tr>
+<tr><td>0xf0301</td><td>storify</td><td class="storify"></td></tr>
+<tr><td>0xf0302</td><td>storybook</td><td class="storybook"></td></tr>
+<tr><td>0xf0303</td><td>strapi</td><td class="strapi"></td></tr>
+<tr><td>0xf0304</td><td>strava</td><td class="strava"></td></tr>
+<tr><td>0xf0305</td><td>stripe</td><td class="stripe"></td></tr>
+<tr><td>0xf0306</td><td>strongswan</td><td class="strongswan"></td></tr>
+<tr><td>0xf0307</td><td>stubhub</td><td class="stubhub"></td></tr>
+<tr><td>0xf0308</td><td>styled-components</td><td class="styled-components"></td></tr>
+<tr><td>0xf0309</td><td>styleshare</td><td class="styleshare"></td></tr>
+<tr><td>0xf030a</td><td>stylus</td><td class="stylus"></td></tr>
+<tr><td>0xf030b</td><td>sublimetext</td><td class="sublimetext"></td></tr>
+<tr><td>0xf030c</td><td>subversion</td><td class="subversion"></td></tr>
+<tr><td>0xf030d</td><td>superuser</td><td class="superuser"></td></tr>
+<tr><td>0xf030e</td><td>svelte</td><td class="svelte"></td></tr>
+<tr><td>0xf030f</td><td>svg</td><td class="svg"></td></tr>
+<tr><td>0xf0310</td><td>svgo</td><td class="svgo"></td></tr>
+<tr><td>0xf0311</td><td>swagger</td><td class="swagger"></td></tr>
+<tr><td>0xf0312</td><td>swarm</td><td class="swarm"></td></tr>
+<tr><td>0xf0313</td><td>swift</td><td class="swift"></td></tr>
+<tr><td>0xf0314</td><td>symantec</td><td class="symantec"></td></tr>
+<tr><td>0xf0315</td><td>symfony</td><td class="symfony"></td></tr>
+<tr><td>0xf0316</td><td>synology</td><td class="synology"></td></tr>
+<tr><td>0xf0317</td><td>t-mobile</td><td class="t-mobile"></td></tr>
+<tr><td>0xf0318</td><td>tableau</td><td class="tableau"></td></tr>
+<tr><td>0xf0319</td><td>tails</td><td class="tails"></td></tr>
+<tr><td>0xf031a</td><td>tailwindcss</td><td class="tailwindcss"></td></tr>
+<tr><td>0xf031b</td><td>tapas</td><td class="tapas"></td></tr>
+<tr><td>0xf031c</td><td>teamviewer</td><td class="teamviewer"></td></tr>
+<tr><td>0xf031d</td><td>ted</td><td class="ted"></td></tr>
+<tr><td>0xf031e</td><td>teespring</td><td class="teespring"></td></tr>
+<tr><td>0xf031f</td><td>telegram</td><td class="telegram"></td></tr>
+<tr><td>0xf0320</td><td>tencentqq</td><td class="tencentqq"></td></tr>
+<tr><td>0xf0321</td><td>tencentweibo</td><td class="tencentweibo"></td></tr>
+<tr><td>0xf0322</td><td>tensorflow</td><td class="tensorflow"></td></tr>
+<tr><td>0xf0323</td><td>teradata</td><td class="teradata"></td></tr>
+<tr><td>0xf0324</td><td>terraform</td><td class="terraform"></td></tr>
+<tr><td>0xf0325</td><td>tesla</td><td class="tesla"></td></tr>
+<tr><td>0xf0326</td><td>themighty</td><td class="themighty"></td></tr>
+<tr><td>0xf0327</td><td>themoviedatabase</td><td class="themoviedatabase"></td></tr>
+<tr><td>0xf0328</td><td>tidal</td><td class="tidal"></td></tr>
+<tr><td>0xf0329</td><td>tiktok</td><td class="tiktok"></td></tr>
+<tr><td>0xf032a</td><td>timescale</td><td class="timescale"></td></tr>
+<tr><td>0xf032b</td><td>tinder</td><td class="tinder"></td></tr>
+<tr><td>0xf032c</td><td>todoist</td><td class="todoist"></td></tr>
+<tr><td>0xf032d</td><td>toggl</td><td class="toggl"></td></tr>
+<tr><td>0xf032e</td><td>topcoder</td><td class="topcoder"></td></tr>
+<tr><td>0xf032f</td><td>toptal</td><td class="toptal"></td></tr>
+<tr><td>0xf0330</td><td>tor</td><td class="tor"></td></tr>
+<tr><td>0xf0331</td><td>toshiba</td><td class="toshiba"></td></tr>
+<tr><td>0xf0332</td><td>trainerroad</td><td class="trainerroad"></td></tr>
+<tr><td>0xf0333</td><td>trakt</td><td class="trakt"></td></tr>
+<tr><td>0xf0334</td><td>travisci</td><td class="travisci"></td></tr>
+<tr><td>0xf0335</td><td>treehouse</td><td class="treehouse"></td></tr>
+<tr><td>0xf0336</td><td>trello</td><td class="trello"></td></tr>
+<tr><td>0xf0337</td><td>trendmicro</td><td class="trendmicro"></td></tr>
+<tr><td>0xf0338</td><td>tripadvisor</td><td class="tripadvisor"></td></tr>
+<tr><td>0xf0339</td><td>trulia</td><td class="trulia"></td></tr>
+<tr><td>0xf033a</td><td>trustpilot</td><td class="trustpilot"></td></tr>
+<tr><td>0xf033b</td><td>tumblr</td><td class="tumblr"></td></tr>
+<tr><td>0xf033c</td><td>turkishairlines</td><td class="turkishairlines"></td></tr>
+<tr><td>0xf033d</td><td>twilio</td><td class="twilio"></td></tr>
+<tr><td>0xf033e</td><td>twitch</td><td class="twitch"></td></tr>
+<tr><td>0xf033f</td><td>x</td><td class="x"></td></tr>
+<tr><td>0xf0340</td><td>twoo</td><td class="twoo"></td></tr>
+<tr><td>0xf0341</td><td>typescript</td><td class="typescript"></td></tr>
+<tr><td>0xf0342</td><td>typo3</td><td class="typo3"></td></tr>
+<tr><td>0xf0343</td><td>uber</td><td class="uber"></td></tr>
+<tr><td>0xf0344</td><td>ubereats</td><td class="ubereats"></td></tr>
+<tr><td>0xf0345</td><td>ubisoft</td><td class="ubisoft"></td></tr>
+<tr><td>0xf0346</td><td>ublockorigin</td><td class="ublockorigin"></td></tr>
+<tr><td>0xf0347</td><td>ubuntu</td><td class="ubuntu"></td></tr>
+<tr><td>0xf0348</td><td>udacity</td><td class="udacity"></td></tr>
+<tr><td>0xf0349</td><td>udemy</td><td class="udemy"></td></tr>
+<tr><td>0xf034a</td><td>uikit</td><td class="uikit"></td></tr>
+<tr><td>0xf034b</td><td>umbraco</td><td class="umbraco"></td></tr>
+<tr><td>0xf034c</td><td>unity</td><td class="unity"></td></tr>
+<tr><td>0xf034d</td><td>unrealengine</td><td class="unrealengine"></td></tr>
+<tr><td>0xf034e</td><td>unsplash</td><td class="unsplash"></td></tr>
+<tr><td>0xf034f</td><td>untappd</td><td class="untappd"></td></tr>
+<tr><td>0xf0350</td><td>upwork</td><td class="upwork"></td></tr>
+<tr><td>0xf0351</td><td>v</td><td class="v"></td></tr>
+<tr><td>0xf0352</td><td>v8</td><td class="v8"></td></tr>
+<tr><td>0xf0353</td><td>vagrant</td><td class="vagrant"></td></tr>
+<tr><td>0xf0354</td><td>valve</td><td class="valve"></td></tr>
+<tr><td>0xf0355</td><td>veeam</td><td class="veeam"></td></tr>
+<tr><td>0xf0356</td><td>venmo</td><td class="venmo"></td></tr>
+<tr><td>0xf0357</td><td>verizon</td><td class="verizon"></td></tr>
+<tr><td>0xf0358</td><td>viadeo</td><td class="viadeo"></td></tr>
+<tr><td>0xf0359</td><td>viber</td><td class="viber"></td></tr>
+<tr><td>0xf035a</td><td>vim</td><td class="vim"></td></tr>
+<tr><td>0xf035b</td><td>vimeo</td><td class="vimeo"></td></tr>
+<tr><td>0xf035c</td><td>vine</td><td class="vine"></td></tr>
+<tr><td>0xf035d</td><td>virb</td><td class="virb"></td></tr>
+<tr><td>0xf035e</td><td>visa</td><td class="visa"></td></tr>
+<tr><td>0xf035f</td><td>visualstudio</td><td class="visualstudio"></td></tr>
+<tr><td>0xf0360</td><td>visualstudiocode</td><td class="visualstudiocode"></td></tr>
+<tr><td>0xf0361</td><td>vk</td><td class="vk"></td></tr>
+<tr><td>0xf0362</td><td>vlcmediaplayer</td><td class="vlcmediaplayer"></td></tr>
+<tr><td>0xf0363</td><td>vodafone</td><td class="vodafone"></td></tr>
+<tr><td>0xf0364</td><td>volkswagen</td><td class="volkswagen"></td></tr>
+<tr><td>0xf0365</td><td>vsco</td><td class="vsco"></td></tr>
+<tr><td>0xf0366</td><td>vue-dot-js</td><td class="vue-dot-js"></td></tr>
+<tr><td>0xf0367</td><td>w3c</td><td class="w3c"></td></tr>
+<tr><td>0xf0368</td><td>wattpad</td><td class="wattpad"></td></tr>
+<tr><td>0xf0369</td><td>waze</td><td class="waze"></td></tr>
+<tr><td>0xf036a</td><td>weasyl</td><td class="weasyl"></td></tr>
+<tr><td>0xf036b</td><td>webauthn</td><td class="webauthn"></td></tr>
+<tr><td>0xf036c</td><td>webcomponents-dot-org</td><td class="webcomponents-dot-org"></td></tr>
+<tr><td>0xf036d</td><td>webmin</td><td class="webmin"></td></tr>
+<tr><td>0xf036e</td><td>webpack</td><td class="webpack"></td></tr>
+<tr><td>0xf036f</td><td>webstorm</td><td class="webstorm"></td></tr>
+<tr><td>0xf0370</td><td>wechat</td><td class="wechat"></td></tr>
+<tr><td>0xf0371</td><td>whatsapp</td><td class="whatsapp"></td></tr>
+<tr><td>0xf0372</td><td>wheniwork</td><td class="wheniwork"></td></tr>
+<tr><td>0xf0373</td><td>whitesource</td><td class="whitesource"></td></tr>
+<tr><td>0xf0374</td><td>wii</td><td class="wii"></td></tr>
+<tr><td>0xf0375</td><td>wiiu</td><td class="wiiu"></td></tr>
+<tr><td>0xf0376</td><td>wikipedia</td><td class="wikipedia"></td></tr>
+<tr><td>0xf0377</td><td>windows</td><td class="windows"></td></tr>
+<tr><td>0xf0378</td><td>wire</td><td class="wire"></td></tr>
+<tr><td>0xf0379</td><td>wireguard</td><td class="wireguard"></td></tr>
+<tr><td>0xf037a</td><td>wish</td><td class="wish"></td></tr>
+<tr><td>0xf037b</td><td>wix</td><td class="wix"></td></tr>
+<tr><td>0xf037c</td><td>wolfram</td><td class="wolfram"></td></tr>
+<tr><td>0xf037d</td><td>wolframlanguage</td><td class="wolframlanguage"></td></tr>
+<tr><td>0xf037e</td><td>wolframmathematica</td><td class="wolframmathematica"></td></tr>
+<tr><td>0xf037f</td><td>wordpress</td><td class="wordpress"></td></tr>
+<tr><td>0xf0380</td><td>workplace</td><td class="workplace"></td></tr>
+<tr><td>0xf0381</td><td>wpengine</td><td class="wpengine"></td></tr>
+<tr><td>0xf0382</td><td>write-dot-as</td><td class="write-dot-as"></td></tr>
+<tr><td>0xf0383</td><td>x-dot-org</td><td class="x-dot-org"></td></tr>
+<tr><td>0xf0384</td><td>x-pack</td><td class="x-pack"></td></tr>
+<tr><td>0xf0385</td><td>xamarin</td><td class="xamarin"></td></tr>
+<tr><td>0xf0386</td><td>xbox</td><td class="xbox"></td></tr>
+<tr><td>0xf0387</td><td>xcode</td><td class="xcode"></td></tr>
+<tr><td>0xf0388</td><td>xdadevelopers</td><td class="xdadevelopers"></td></tr>
+<tr><td>0xf0389</td><td>xero</td><td class="xero"></td></tr>
+<tr><td>0xf038a</td><td>xfce</td><td class="xfce"></td></tr>
+<tr><td>0xf038b</td><td>xiaomi</td><td class="xiaomi"></td></tr>
+<tr><td>0xf038c</td><td>xing</td><td class="xing"></td></tr>
+<tr><td>0xf038d</td><td>xmpp</td><td class="xmpp"></td></tr>
+<tr><td>0xf038e</td><td>xrp</td><td class="xrp"></td></tr>
+<tr><td>0xf038f</td><td>xsplit</td><td class="xsplit"></td></tr>
+<tr><td>0xf0390</td><td>yahoo</td><td class="yahoo"></td></tr>
+<tr><td>0xf0391</td><td>yamahacorporation</td><td class="yamahacorporation"></td></tr>
+<tr><td>0xf0392</td><td>yamahamotorcorporation</td><td class="yamahamotorcorporation"></td></tr>
+<tr><td>0xf0393</td><td>yammer</td><td class="yammer"></td></tr>
+<tr><td>0xf0394</td><td>yandex</td><td class="yandex"></td></tr>
+<tr><td>0xf0395</td><td>yarn</td><td class="yarn"></td></tr>
+<tr><td>0xf0396</td><td>ycombinator</td><td class="ycombinator"></td></tr>
+<tr><td>0xf0397</td><td>yelp</td><td class="yelp"></td></tr>
+<tr><td>0xf0398</td><td>youtube</td><td class="youtube"></td></tr>
+<tr><td>0xf0399</td><td>zalando</td><td class="zalando"></td></tr>
+<tr><td>0xf039a</td><td>zapier</td><td class="zapier"></td></tr>
+<tr><td>0xf039b</td><td>zeit</td><td class="zeit"></td></tr>
+<tr><td>0xf039c</td><td>zend</td><td class="zend"></td></tr>
+<tr><td>0xf039d</td><td>zendesk</td><td class="zendesk"></td></tr>
+<tr><td>0xf039e</td><td>zendframework</td><td class="zendframework"></td></tr>
+<tr><td>0xf039f</td><td>zeromq</td><td class="zeromq"></td></tr>
+<tr><td>0xf03a0</td><td>zerply</td><td class="zerply"></td></tr>
+<tr><td>0xf03a1</td><td>zhihu</td><td class="zhihu"></td></tr>
+<tr><td>0xf03a2</td><td>zillow</td><td class="zillow"></td></tr>
+<tr><td>0xf03a3</td><td>zingat</td><td class="zingat"></td></tr>
+<tr><td>0xf03a4</td><td>zoom</td><td class="zoom"></td></tr>
+<tr><td>0xf03a5</td><td>zorin</td><td class="zorin"></td></tr>
+<tr><td>0xf03a6</td><td>zulip</td><td class="zulip"></td></tr>
+<tr><td>0xf03a7</td><td>home3</td><td class="home3"></td></tr>
+<tr><td>0xf03a8</td><td>file-empty</td><td class="file-empty"></td></tr>
+<tr><td>0xf03a9</td><td>file-text2</td><td class="file-text2"></td></tr>
+<tr><td>0xf03aa</td><td>file-picture</td><td class="file-picture"></td></tr>
+<tr><td>0xf03ab</td><td>file-music</td><td class="file-music"></td></tr>
+<tr><td>0xf03ac</td><td>file-play</td><td class="file-play"></td></tr>
+<tr><td>0xf03ad</td><td>file-video</td><td class="file-video"></td></tr>
+<tr><td>0xf03ae</td><td>file-zip</td><td class="file-zip"></td></tr>
+<tr><td>0xf03af</td><td>paste</td><td class="paste"></td></tr>
+<tr><td>0xf03b0</td><td>folder</td><td class="folder"></td></tr>
+<tr><td>0xf03b1</td><td>folder-plus</td><td class="folder-plus"></td></tr>
+<tr><td>0xf03b2</td><td>folder-minus</td><td class="folder-minus"></td></tr>
+<tr><td>0xf03b3</td><td>folder-download</td><td class="folder-download"></td></tr>
+<tr><td>0xf03b4</td><td>folder-upload</td><td class="folder-upload"></td></tr>
+<tr><td>0xf03b5</td><td>qrcode</td><td class="qrcode"></td></tr>
+<tr><td>0xf03b6</td><td>file-pdf</td><td class="file-pdf"></td></tr>
 </table>
 </div>
 
