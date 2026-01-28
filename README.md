@@ -3,10 +3,20 @@
 ##### A frontend icon resp
 
 ## Usage
-in your code:
-add `https://c-s-e-c.github.io/emojipedia/style.css` in head
-add `class="csecicon"`
-add content in elements like `\f0000`
+1. RECOMMENDED
+   get latest reslese
+   a. add `https://c-s-e-c.github.io/emojipedia/id.css` in head
+   b. add `class="csecicon-[name]"`
+2. FAST
+   add `https://c-s-e-c.github.io/emojipedia/old.css` in head
+   add `[class^="csecicon"], [class*=" csecicon"] {font-family: 'CSEC-font-library-[version]' !important;}` in style
+   add `class="csecicon"`
+   add content in elements like `\f0000`
+3. NOT RECOMMENDED
+   This make your site not stable,you will need to update your site as we change the id of icons.
+   add `https://c-s-e-c.github.io/emojipedia/style.css` in head
+   add `class="csecicon"`
+   add content in elements like `\f0000`
 
 # Credits
 <table>
