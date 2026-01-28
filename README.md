@@ -22,6 +22,7 @@ add content in elements like `\f0000`
 </table>
 
 # Table
+Github Readme displays the icons below wrong,however you can view them on the [homepage](https://c-s-e-c.github.io/emojipedia/) 
 <link rel="stylesheet" href="style.css">
 <div class="csecicon">
 <table>
