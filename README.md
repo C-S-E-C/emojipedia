@@ -10,17 +10,16 @@ add `class="csecicon"`
 add content in elements like `\f0000`
 
 # Credits
-
-|Area|Arthur|
-|-|-|
-|0xf03a7 - 0xf03b6|Keyamoon|
-
+<table>
+<tr><td>Area</td><td>Arthur</td></tr>
+<tr><td>0xf03a7 - 0xf03b6</td><td>Keyamoon</td></tr>
+</table>
 # Sections
-|Area|Name|
-|-|-|
-|0xf0000 - 0xf03a6|logos|
-|0xf03a7 - 0xf03b6|Icons|
-
+<table>
+<tr><td>Area</td><td>Name</td></tr>
+<tr><td>0xf0000 - 0xf03a6</td><td>logos</td></tr>
+<tr><td>0xf03a7 - 0xf03b6</td><td>Icons</td></tr>
+</table>
 # Table
 
 <link rel="stylesheet" href="style.css">
