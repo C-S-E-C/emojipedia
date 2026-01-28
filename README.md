@@ -15,9 +15,13 @@ add content in elements like `\f0000`
 |-|-|
 |0xf03a7 - 0xf03b6|Keyamoon|
 
+# Sections
+|Area|Name|
+|-|-|
+|0xf0000 - 0xf03a6|logos|
+|0xf03a7 - 0xf03b6|Icons|
 
-
-These are the icons with Hexid
+# Table
 
 <link rel="stylesheet" href="style.css">
 <div class="csecicon">
