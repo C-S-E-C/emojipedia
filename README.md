@@ -3,7 +3,6 @@
 ##### A frontend icon resp
 
 ## Usage
-
 in your code:
 add `https://c-s-e-c.github.io/emojipedia/style.css` in head
 add `class="csecicon"`
@@ -14,14 +13,15 @@ add content in elements like `\f0000`
 <tr><td>Area</td><td>Arthur</td></tr>
 <tr><td>0xf03a7 - 0xf03b6</td><td>Keyamoon</td></tr>
 </table>
+
 # Sections
 <table>
 <tr><td>Area</td><td>Name</td></tr>
 <tr><td>0xf0000 - 0xf03a6</td><td>logos</td></tr>
 <tr><td>0xf03a7 - 0xf03b6</td><td>Icons</td></tr>
 </table>
-# Table
 
+# Table
 <link rel="stylesheet" href="style.css">
 <div class="csecicon">
 <table>
