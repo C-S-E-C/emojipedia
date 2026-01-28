@@ -19,7 +19,7 @@ add content in elements like `\f0000`
 
 These are the icons with Hexid
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/C-S-E-C/emojipedia/refs/heads/main/style.css">
+<link rel="stylesheet" href="style.css">
 <div class="csecicon">
 |Unicodehex|name|icon|
 |-|-|-|
