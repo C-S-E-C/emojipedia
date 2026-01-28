@@ -990,4 +990,5 @@ Github Readme displays the icons below wrong,however you can view them on the [h
 <tr><td>0xf03b5</td><td>folder-upload</td><td class="csecicon-folder-upload"></td></tr>
 <tr><td>0xf03b6</td><td>qrcode</td><td class="csecicon-qrcode"></td></tr>
 <tr><td>0xf03b7</td><td>file-pdf</td><td class="csecicon-file-pdf"></td></tr>
+<tr><td>0xf03b8</td><td>square-full</td><td class="csecicon-square-full"></td></tr>
 </table>
