@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'CSEC-font-library-1.0';
+  src:  url('https://c-s-e-c.github.io/emojipedia/fonts/font.woff2');
+  src:  url('https://c-s-e-c.github.io/emojipedia/fonts/font.woff2') format('woff2'),
+    url('https://c-s-e-c.github.io/emojipedia/fonts/1.0/font.ttf') format('truetype'),
+    url('https://c-s-e-c.github.io/emojipedia/fonts/font.woff') format('woff'),
+    url('https://c-s-e-c.github.io/emojipedia/fonts/font.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="csecicon"], [class*=" csecicon"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  /* font-family: 'CSEC-font-library' !important; */
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
