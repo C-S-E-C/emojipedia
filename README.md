@@ -1,7 +1,7 @@
 # Emojipedia
 
 ##### A frontend icon resp
-
+[github](https://github.com/C-S-E-C/emojipedia)
 ## Usage
 1. RECOMMENDED<br  />
    get latest reslese<br  />
