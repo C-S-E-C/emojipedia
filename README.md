@@ -35,6 +35,7 @@
 # Table
 Github Readme displays the icons below wrong,however you can view them on the [homepage](https://c-s-e-c.github.io/emojipedia/) 
 <link rel="stylesheet" href="id.css">
+<button onclick="document.body += `<link rel='stylesheet' href='color.css'>`">Enable Colors</button>
 <table>
 <tr><td>Unicodehex</td><td>name</td><td>icon</td></tr>
 <tr><td>0xf0000</td><td>cseclogo</td><td class="csecicon-cseclogo"></td></tr>
