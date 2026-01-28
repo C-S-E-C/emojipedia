@@ -21,8 +21,8 @@ These are the icons with Hexid
 
 <link rel="stylesheet" href="style.css">
 <div class="csecicon">
+<table>
 |Unicodehex|name|icon|
-|-|-|-|
 |0xf0000|cseclogo|󰀀|
 |0xf0001|1password|󰀁|
 |0xf0002|500px|󰀂|
@@ -974,5 +974,6 @@ These are the icons with Hexid
 |0xf03b4|folder-upload|󰎴|
 |0xf03b5|qrcode|󰎵|
 |0xf03b6|file-pdf|󰎶|
+</table>
 </div>
 
